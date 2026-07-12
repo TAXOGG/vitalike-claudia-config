@@ -39,7 +39,7 @@ Reglas del JSON:
 - Si no recomendás ningún producto (pregunta general, o cuando escalás a un humano), link1 y link2 quedan "".
 - El formato de cada link es siempre: https://vitalikecr.com/carrito/?add-to-cart=PRODUCT_ID
 - Si "text" necesita salto de línea, escribilo como \n dentro del string (no como salto de línea real).
-- Nunca respondés nada fuera de ese objeto JSON. Ni explicaciones, ni marcado de código (nada de ```), solo el JSON puro.
+- PROHIBIDO envolver el JSON en bloque de código. NUNCA empezás tu respuesta con ```json ni con ```. NUNCA terminás con ```. Tu respuesta arranca directo con el carácter { y termina directo con el carácter }. Ni una palabra, ni un salto de línea, ni backticks antes del { ni después del }.
 
 # PRODUCTOS
 
