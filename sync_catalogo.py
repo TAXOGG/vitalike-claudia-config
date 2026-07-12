@@ -139,7 +139,7 @@ def split_prompt(text: str):
     return header, footer
 
 
-def push_to_github(content: str):
+def push_to_github(content: str, path: str = GITHUB_PATH):
     if not GITHUB_TOKEN or not GITHUB_REPO:
         print("\nGITHUB_TOKEN/GITHUB_REPO no configurados — se omite publicación en GitHub.")
         return None
@@ -154,8 +154,8 @@ def push_to_github(content: str):
     repo_resp.raise_for_status()
     default_branch = repo_resp.json()["default_branch"]
 
-    api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_PATH}"
-    get_resp = requests.get(api_url, headers=headers, timeout=30)
+    api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    get_resp = requests.get(api_url, headers=headers, params={"ref": default_branch}, timeout=30)
     sha = get_resp.json().get("sha") if get_resp.status_code == 200 else None
 
     payload = {
@@ -169,7 +169,7 @@ def push_to_github(content: str):
     put_resp = requests.put(api_url, headers=headers, json=payload, timeout=30)
     put_resp.raise_for_status()
 
-    raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{default_branch}/{GITHUB_PATH}"
+    raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{default_branch}/{path}"
     print(f"Publicado en GitHub: {raw_url}")
     return raw_url
 
@@ -187,18 +187,21 @@ def main():
     print(f"\nActualizado: {SYSTEM_PROMPT_FILE.name}")
 
     # Regenerar make-body-ready.txt
-    # El formato es: JSON con system prompt embebido como string y {{1.messages_str}} literal
+    # JSON ya valido y escapado; Make.com solo reemplaza el marcador de texto
+    # __MESSAGES_PLACEHOLDER__ por el historial real (evita que Make intente
+    # evaluarlo como variable, cosa que si pasaria con {{1.messages_str}} literal)
     system_escaped = json.dumps(new_prompt)[1:-1]  # quitar comillas externas
 
     make_body = (
         '{"model": "claude-haiku-4-5-20251001", "max_tokens": 800, "system": "'
         + system_escaped
-        + '", "messages": {{1.messages_str}}}'
+        + '", "messages": __MESSAGES_PLACEHOLDER__}'
     )
     MAKE_BODY_FILE.write_text(make_body, encoding="utf-8")
     print(f"Actualizado: {MAKE_BODY_FILE.name}")
 
-    push_to_github(new_prompt)
+    push_to_github(new_prompt, GITHUB_PATH)
+    push_to_github(make_body, "make-body-ready.txt")
 
     # Resumen
     in_stock_count = sum(1 for p in products if p.get("stock_status") == "instock")
