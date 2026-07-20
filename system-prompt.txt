@@ -41,342 +41,340 @@ Siempre respondés llamando a la herramienta `responder_cliente` (nunca como tex
 
 # PRODUCTOS
 
-## SUPLEMENTOS
-- RAW CREAM OF RICE | 25 SERVIDAS | ID: 27075 | ₡15,500 | https://vitalikecr.com/producto/raw-cream-of-rice-25-servidas/
-- NUTREX CARNIBURN | 31 SERVIDAS | ID: 26621 | ₡24,600 | https://vitalikecr.com/producto/nutrex-carniburn-31-servidas/
-- BLOOM SPARKLING ENERGY DRINK | ID: 23627 | ₡1,800 | https://vitalikecr.com/producto/bloom-sparkling-energy-drink/
-- TOTAL WAR SHOT | 1 UNIDAD | ID: 22088 | ₡1,900 | https://vitalikecr.com/producto/total-war-shot-1-unidad/
-- NUTRABIO MULTI COLAGENO SIN SABOR | 45 SERVIDAS | ID: 21695 | ₡25,500 | https://vitalikecr.com/producto/nutrabio-multi-colageno-sin-sabor-45-servidas/
-- USN MULTIVITAMINICO | 60 SERVIDAS | ID: 20907 | ₡14,000 | https://vitalikecr.com/producto/usn-multivitaminico-60-servidas/
-- UNIVERSAL ANIMAL PAK | 44 PACKS | ID: 11597 | ₡34,000 | https://vitalikecr.com/producto/universal-animal-pak-44-packs/
-- EVL OMEGA 3 FISH OIL - 120 CÁPSULAS | ID: 10176 | ₡11,900 | https://vitalikecr.com/producto/evl-omega-3-fish-oil-120-capsulas/
-- NUTREX EAA + HIDRATACION | 30 SERVIDAS | ID: 6318 | ₡18,500 | https://vitalikecr.com/producto/nutrex-eaa-hidratacion-30-servidas/
-- NUTREX CREATINA SIN SABOR | 30-60-100-200-400 SERVIDAS | ID: 6315 | ₡10,500 | https://vitalikecr.com/producto/nutrex-creatina-sin-sabor-60-200-servidas/
-- NUTRABIO CAFEINA | ID: 9685 | ₡14,900 | https://vitalikecr.com/producto/nutrabio-cafeina/
-- NUTRABIO L-CARNITINA 3000MG | 31 SERVIDAS | ID: 9224 | ₡18,000 | https://vitalikecr.com/producto/nutrabio-l-carnitina-3000mg-31-servidas/
-- REDCON1 PROTEÍNA DE BASE ANIMAL MRE LITE | 30 SERVIDAS | ID: 6443 | ₡33,500 | https://vitalikecr.com/producto/redcon1-proteina-de-base-animal-mre-lite-30-servidas/
-- RAW CBUM THAVAGE EN POLVO | 40/20 SERVIDAS | ID: 6373 | ₡30,900 | https://vitalikecr.com/producto/raw-cbum-thavage-en-polvo-40-20-servidas/
-- NUTREX PROTEÍNA ISOLADA ISOFIT | 30-70 SERVIDAS | ID: 6352 | ₡33,900 | https://vitalikecr.com/producto/nutrex-proteina-isolada-isofit-30-70-servidas/
-- NUTREX PROTEINA 100% WHEY | 2LBS-5LBS-10LBS | ID: 6345 | ₡25,000 | https://vitalikecr.com/producto/nutrex-proteina-100-whey-2lbs-5lbs-10lbs/
-- NUTREX L-CARNITINA 3000 | 31 SERVIDAS | ID: 6328 | ₡16,000 | https://vitalikecr.com/producto/nutrex-l-carnitina-3000-31-servidas/
-- NUTRABIO PROTEÍNA ISOLADA ISO CLEAR | 20 SERVIDAS | ID: 6300 | ₡31,500 | https://vitalikecr.com/producto/nutrabio-proteina-isolada-iso-clear-20-servidas/
-- NUTRABIO OMEGA 3 FISH OIL | 150-400-500 CÁPSULAS | ID: 6284 | ₡13,000 | https://vitalikecr.com/producto/nutrabio-omega-3-fish-oil-150-500-capsulas/
-- NUTRABIO INTRABLAST AMINO + EAA + BCAA | 30 SERVIDAS | ID: 6277 | ₡29,900 | https://vitalikecr.com/producto/nutrabio-intrablast-amino-eaa-bcaa-30-servidas/
-- NUTRABIO CREATINA BURST | 60 SERVIDAS | ID: 6269 | ₡17,800 | https://vitalikecr.com/producto/nutrabio-creatina-burst-60-servidas/
-- GHOST SIZE-V3 | 30 SERVIDAS | ID: 4994 | ₡25,500 | https://vitalikecr.com/producto/ghost-size-v2-30-servidas/
-- EVL BCAA ENERGY | 30-65 SERVIDAS | ID: 4876 | ₡17,500 | https://vitalikecr.com/producto/evl-bcaa-energy-30-65-servidas/
-- NUTREX NIOX EXTREM PUMP OXIDO NITRICO | 90 CAPSULAS | ID: 4627 | ₡21,900 | https://vitalikecr.com/producto/nutrex-niox-extrem-pump-oxido-nitrico-90-capsulas/
-- NUTREX LIPO6 NIGHTIME QUEMADOR DE GRASA | 30 CAPSULAS | ID: 4624 | ₡11,000 (normal ₡22,000) | https://vitalikecr.com/producto/nutrex-lipo6-nightime-quemador-de-grasa-30-capsulas/
-- NUTREX LIPO6 BLACK ULTRA CONCENTRADO MUJER | 60 CÁPSULAS | ID: 4621 | ₡11,750 (normal ₡23,500) | https://vitalikecr.com/producto/nutrex-lipo6-black-ultra-concentrado-mujer-60-capsulas/
-- NUTREX CAFEINA 200 | 60 CAPSULAS | ID: 4616 | ₡9,200 | https://vitalikecr.com/producto/nutrex-cafeina-200-60-capsulas/
-- NUTRABIO ZMA | 180 CAPSULAS | ID: 4596 | ₡27,900 | https://vitalikecr.com/producto/nutrabio-zma-180-capsulas/
-- NUTRABIO ZINC CHELATO | 120 CAPSULAS | ID: 4595 | ₡10,000 | https://vitalikecr.com/producto/nutrabio-zinc-chelato-120-capsulas/
-- NUTRABIO VITAMINA C | 120 CAPSULAS | ID: 4592 | ₡14,200 | https://vitalikecr.com/producto/nutrabio-vitamina-c-120-capsulas/
-- NUTRABIO MULTISPORT PARA HOMBRE | 120 CÁPSULAS | ID: 4588 | ₡23,500 | https://vitalikecr.com/producto/nutrabio-multisport-para-hombre-120-capsulas/
-- NUTRABIO MULTISPORT MUJER | 120 CAPSULAS | ID: 4587 | ₡23,500 | https://vitalikecr.com/producto/nutrabio-multisport-mujer-120-capsulas/
-- NUTRABIO MAGNESIO COMPLEX | 120 CAPSULAS | ID: 4585 | ₡12,500 | https://vitalikecr.com/producto/nutrabio-magnesio-120-capsulas/
-- NUTRABIO L-THEANINA | 90 CAPSULAS | ID: 4583 | ₡18,500 | https://vitalikecr.com/producto/nutrabio-l-theanina-90-capsulas/
-- NUTRABIO L-ARGININA EN POLVO | 250G | ID: 4581 | ₡17,000 | https://vitalikecr.com/producto/nutrabio-l-arginina-en-polvo-250g/
-- NUTRABIO GLUCOSAMINA CONDROINTIN & MSM | 90 CÁPSULAS | ID: 4577 | ₡17,300 | https://vitalikecr.com/producto/nutrabio-glucosamina-condrointin-msm-90-capsulas/
-- NUTRABIO GABA ACIDO GAMA AMINOBUTIRICO | 90 CAPSULAS | ID: 4576 | ₡16,500 | https://vitalikecr.com/producto/nutrabio-gaba-acido-gama-aminobutirico-90-capsulas/
-- NUTRABIO EXTREME JOINT CARE | 120 CÁPSULAS | ID: 4575 | ₡26,500 | https://vitalikecr.com/producto/nutrabio-extreme-joint-care-120-capsulas/
-- NUTRABIO COQ10 | 60 CAPSULAS | ID: 4574 | ₡21,900 | https://vitalikecr.com/producto/nutrabio-coq10-60-capsulas/
-- NUTRABIO COMPLEJO DE POTASIO | 120 CAPSULAS | ID: 4573 | ₡11,900 | https://vitalikecr.com/producto/nutrabio-complejo-de-potasio-120-capsulas/
-- NUTRABIO CARBOHIDRATOS EN POLVO CARBO MAX SIN SABOR | 75 SERVIDAS | ID: 4568 | ₡30,000 | https://vitalikecr.com/producto/nutrabio-carbohidratos-en-polvo-carbo-max-sin-sabor-75-servidas/
-- NUTRABIO BIOTINA | 90 CAPSULAS | ID: 4564 | ₡12,900 | https://vitalikecr.com/producto/nutrabio-biotina-90-capsulas/
-- NUTRABIO ASHWAGANDHA | 90 CAPSULAS | ID: 4560 | ₡26,900 | https://vitalikecr.com/producto/nutrabio-ashwagandha-90-capsulas/
-- NUTRABIO ACIDO ALPHA LIPOICO | 90 CAPSULAS | ID: 4558 | ₡18,900 | https://vitalikecr.com/producto/nutrabio-acido-alpha-lipoico-90-capsulas/
-- LANDERFIT MULTIVITAMÍNICO MULTIPHASE | 30 SERVIDAS | ID: 4130 | ₡16,000 | https://vitalikecr.com/producto/landerfit-multivitaminico-multiphase-30-servidas/
-- EVL PROBIOTICO | 30 SERVIDAS | ID: 4117 | ₡19,000 | https://vitalikecr.com/producto/evl-probiotico-30-servidas/
-- EVL ARGININA HCL | 100 CAPSULAS | ID: 4116 | ₡14,000 | https://vitalikecr.com/producto/evl-arginina-hcl-100-capsulas/
+## NUEVOS
+- RAW CREAM OF RICE | 25 SERVIDAS | ID: 27075 | ₡15,500 | https://vitalikecr.com/carrito/?add-to-cart=27075
+- NUTRABIO MAGNESIO GLYCINATE EN POLVO | 50 SERVIDAS | ID: 26559 | ₡20,200 | https://vitalikecr.com/carrito/?add-to-cart=26559
+- NUTRABIO MAGNESIO GLYCINATE | 120 CÁPSULAS | ID: 26558 | ₡17,200 | https://vitalikecr.com/carrito/?add-to-cart=26558
+- GHOST CLEAR WHEY ISOLATE  | 1LB | ID: 22774 | ₡32,900 | https://vitalikecr.com/carrito/?add-to-cart=22774
+- GHOST BASICS VITAMIN C AND GLUTATHIONE | 30 CAPSÚLAS | ID: 22773 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=22773
+- RAW CBUM ESSENTIAL PRE-ENTRENO / 30 SERVIDAS | ID: 22270 | ₡19,900 | https://vitalikecr.com/carrito/?add-to-cart=22270
+- MUSCLESPORT FRUITS & GREENS | 30 SERVIDAS | ID: 22083 | ₡23,900 | https://vitalikecr.com/carrito/?add-to-cart=22083
+- VENUM GUANTES DE BOXEO CHALLENGER 4.0 | 12-14-16 OZ | ID: 21595 | ₡39,900 | https://vitalikecr.com/carrito/?add-to-cart=21595
+- VENUM GUANTES DE BOXEO CONTENDER 1.5 | 12-14-16 OZ | ID: 21528 | ₡27,900 | https://vitalikecr.com/carrito/?add-to-cart=21528
+- VENUM GUANTES MMA IMPACT EVO | ID: 21485 | ₡36,900 | https://vitalikecr.com/carrito/?add-to-cart=21485
+- VENUM RODILLERAS KONTACT | ID: 21412 | ₡24,900 | https://vitalikecr.com/carrito/?add-to-cart=21412
+- VENUM CODERAS KONTACT | ID: 21392 | ₡12,900 | https://vitalikecr.com/carrito/?add-to-cart=21392
+- VENUM BUCAL CHALLENGER | ID: 21367 | ₡9,900 | https://vitalikecr.com/carrito/?add-to-cart=21367
+- PRIMEVAL PROTEINA WHEY | 20 SERVIDAS | ID: 21282 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=21282
+- CELLUCOR PRE-ENTRENO C4 | 30-50 SERVIDAS | ID: 20221 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=20221
 
 ## PROTEÍNA VEGANA
-- RAW PROTEINA VEGANA | 25 SERVIDAS | ID: 26689 | ₡31,000 | https://vitalikecr.com/producto/raw-proteina-vegana-25-servidas/
-- GHOST PROTEINA VEGANA | 28 SERVIDAS | ID: 4977 | ₡30,500 | https://vitalikecr.com/producto/ghost-proteina-vegana-28-servidas/
+- RAW PROTEINA VEGANA | 25 SERVIDAS | ID: 26689 | ₡31,000 | https://vitalikecr.com/carrito/?add-to-cart=26689
 
 ## ACCESORIOS
-- REDCON SHAKER | ID: 26682 | ₡7,200 | https://vitalikecr.com/producto/shaker-redcon/
-- NUTRABIO SHAKER | ID: 26681 | ₡6,000 | https://vitalikecr.com/producto/shaker-nutrabio/
-- MUSCLETECH SHAKER | ID: 26678 | ₡7,200 | https://vitalikecr.com/producto/shaker-muscletech/
-- DURA BODY CINTURON CUERO | ID: 4792 | ₡25,900 | https://vitalikecr.com/producto/dura-body-cinturon-cuero/
-- NORULES CINTURÓN CUERO SINTÉTICO | ID: 5413 | ₡20,000 | https://vitalikecr.com/producto/norules-cinturon-cuero-sintetico/
-- DURA BODY CODERAS | ID: 10308 | ₡12,000 | https://vitalikecr.com/producto/dura-body-coderas/
-- DURA BODY ANCLAJE DE POLEA | ID: 10247 | ₡14,900 | https://vitalikecr.com/producto/dura-body-anclaje-de-polea/
-- DURA BODY GRIPS CROSSFIT | ID: 10237 | ₡13,900 | https://vitalikecr.com/producto/dura-body-grip-con-munequera/
-- DURA BODY BOLSO DE ESPALDA GYM | ID: 10122 | ₡29,000 (normal ₡59,000) | https://vitalikecr.com/producto/dura-body-bolso-de-espalda-gym/
-- NR CALLERA MUÑEQUERA SENCILLA | ID: 9998 | ₡15,000 | https://vitalikecr.com/producto/nr-callera-munequera-sencilla/
-- SMART SHAKER | ID: 6496 | ₡7,200 | https://vitalikecr.com/producto/smart-shaker/
-- NORULES WRISTBANDS | ID: 6238 | ₡6,900 | https://vitalikecr.com/producto/norules-wristbands/
-- NORULES MALETIN TACTICO | ID: 5640 | ₡41,900 | https://vitalikecr.com/producto/norules-maletin-tactico/
-- DURA BODY VENDAS DE RODILLA | ID: 4866 | ₡18,900 | https://vitalikecr.com/producto/dura-body-vendas-de-rodilla/
-- DURA BODY MUÑEQUERAS | ID: 4852 | ₡14,500 | https://vitalikecr.com/producto/dura-body-munequeras/
-- DURA BODY GUANTES CON MUÑEQUERA MUJER | ID: 4845 | ₡17,500 | https://vitalikecr.com/producto/dura-body-guantes-con-munequera-mujer/
-- DURA BODY GUANTES CON MUÑEQUERA HOMBRE | ID: 4837 | ₡17,500 | https://vitalikecr.com/producto/dura-body-guantes-con-munequera-hombre/
-- DURA BODY GUANTE PREMIUM UNISEX | ID: 4824 | ₡20,000 | https://vitalikecr.com/producto/dura-body-guante-premium-unisex/
-- DURA BODY GRIPS | ID: 4821 | ₡29,500 | https://vitalikecr.com/producto/dura-body-grips/
-- DURA BODY CINTURON NEOPRENO | ID: 4807 | ₡22,500 | https://vitalikecr.com/producto/dura-body-cinturon-neopreno/
-- NORULES HEADBANDS | ID: 4273 | ₡9,000 | https://vitalikecr.com/producto/norules-headbands/
+- REDCON SHAKER | ID: 26682 | ₡7,200 | https://vitalikecr.com/carrito/?add-to-cart=26682
+- NUTRABIO SHAKER | ID: 26681 | ₡6,000 | https://vitalikecr.com/carrito/?add-to-cart=26681
+- MUSCLETECH SHAKER | ID: 26678 | ₡7,200 | https://vitalikecr.com/carrito/?add-to-cart=26678
+- DURA BODY CINTURON CUERO | ID: 4792 | ₡25,900 | https://vitalikecr.com/carrito/?add-to-cart=4792
+- NORULES CINTURÓN CUERO SINTÉTICO | ID: 5413 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=5413
+- DURA BODY CODERAS | ID: 10308 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=10308
+- DURA BODY ANCLAJE DE POLEA | ID: 10247 | ₡14,900 | https://vitalikecr.com/carrito/?add-to-cart=10247
+- DURA BODY GRIPS CROSSFIT | ID: 10237 | ₡13,900 | https://vitalikecr.com/carrito/?add-to-cart=10237
+- DURA BODY BOLSO DE ESPALDA GYM | ID: 10122 | ₡29,000 (normal ₡59,000) | https://vitalikecr.com/carrito/?add-to-cart=10122
+- NR CALLERA MUÑEQUERA SENCILLA | ID: 9998 | ₡15,000 | https://vitalikecr.com/carrito/?add-to-cart=9998
+- SMART SHAKER | ID: 6496 | ₡7,200 | https://vitalikecr.com/carrito/?add-to-cart=6496
+- NORULES WRISTBANDS | ID: 6238 | ₡6,900 | https://vitalikecr.com/carrito/?add-to-cart=6238
+- NORULES MALETIN TACTICO | ID: 5640 | ₡41,900 | https://vitalikecr.com/carrito/?add-to-cart=5640
+- DURA BODY VENDAS DE RODILLA | ID: 4866 | ₡18,900 | https://vitalikecr.com/carrito/?add-to-cart=4866
+- DURA BODY MUÑEQUERAS | ID: 4852 | ₡14,500 | https://vitalikecr.com/carrito/?add-to-cart=4852
+- DURA BODY GUANTES CON MUÑEQUERA MUJER | ID: 4845 | ₡17,500 | https://vitalikecr.com/carrito/?add-to-cart=4845
+- DURA BODY GUANTES CON MUÑEQUERA HOMBRE | ID: 4837 | ₡17,500 | https://vitalikecr.com/carrito/?add-to-cart=4837
+- DURA BODY GUANTE PREMIUM UNISEX | ID: 4824 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=4824
+- DURA BODY GRIPS | ID: 4821 | ₡29,500 | https://vitalikecr.com/carrito/?add-to-cart=4821
+- DURA BODY CINTURON NEOPRENO | ID: 4807 | ₡22,500 | https://vitalikecr.com/carrito/?add-to-cart=4807
+- NORULES HEADBANDS | ID: 4273 | ₡9,000 | https://vitalikecr.com/carrito/?add-to-cart=4273
 
 ## SNACKS SALUDABLES
-- REDCON MRE BAR BARRA DE REEMPLAZO DE MERIENDA | ID: 26673 | ₡2,000 | https://vitalikecr.com/producto/redcon-mre-bar-barra-de-reemplazo-de-merienda/
-- ALPHA PRIME BROWNIE | ID: 9506 | ₡2,500 | https://vitalikecr.com/producto/alpha-prime-brownie/
-- RAZE CAKES | ID: 6392 | ₡7,000 | https://vitalikecr.com/producto/raze-cakes/
+- REDCON MRE BAR BARRA DE REEMPLAZO DE MERIENDA | ID: 26673 | ₡2,000 | https://vitalikecr.com/carrito/?add-to-cart=26673
+- PURE PROTEIN BARRA DE PROTEÍNA | ID: 26628 | ₡1,500 | https://vitalikecr.com/carrito/?add-to-cart=26628
+- MRS TASTE ALFAJOR GALLETA | ID: 26611 | ₡1,500 | https://vitalikecr.com/carrito/?add-to-cart=26611
+- RAZE CAKES | ID: 6392 | ₡7,000 | https://vitalikecr.com/carrito/?add-to-cart=6392
 
 ## GANADORES DE PESO
-- REDCON MRE PROTEINA DE BASE ANIMAL |  7 LBS | ID: 26672 | ₡51,900 | https://vitalikecr.com/producto/redcon-mre-proteina-de-base-animal-7-lbs/
-- DYMATIZE SUPER MASS | 6-12 LBS | ID: 11592 | ₡33,550 | https://vitalikecr.com/producto/dymatize-super-mass-6-12-lbs/
-- REDCON GANADOR DE PESO | 6 LBS | ID: 11403 | ₡29,900 | https://vitalikecr.com/producto/redcon-ganador-de-peso-6-lbs/
-- NUTREX GANADOR MASS INFUSION  | 12LB | ID: 6325 | ₡49,900 | https://vitalikecr.com/producto/nutrex-ganador-mass-infusion-12lb/
+- REDCON MRE PROTEINA DE BASE ANIMAL |  7 LBS | ID: 26672 | ₡51,900 | https://vitalikecr.com/carrito/?add-to-cart=26672
+- DYMATIZE SUPER MASS | 6-12 LBS | ID: 11592 | ₡33,550 | https://vitalikecr.com/carrito/?add-to-cart=11592
+- REDCON GANADOR DE PESO | 6 LBS | ID: 11403 | ₡29,900 | https://vitalikecr.com/carrito/?add-to-cart=11403
+- NUTREX GANADOR MASS INFUSION  | 12LB | ID: 6325 | ₡49,900 | https://vitalikecr.com/carrito/?add-to-cart=6325
 
 ## AMINOÁCIDOS
-- REDCON CANTEEN | 30 SERVIDAS | ID: 26671 | ₡19,000 | https://vitalikecr.com/producto/redcon-canteen-30-servidas/
-- REDCON BCAA BREACH ENERGY | 30 SERVIDAS | ID: 26661 | ₡16,900 | https://vitalikecr.com/producto/redcon-bcaa-breach-energy-30-servidas/
-- NUTRABIO SUPER CARB | 30 SERVIDAS | ID: 21712 | ₡28,500 | https://vitalikecr.com/producto/nutrabio-super-carb-30-servidas/
-- USN BCAA + AMINO | 30 SERVIDAS | ID: 20926 | ₡19,900 | https://vitalikecr.com/producto/usn-bcaa-amino-30-servidas/
-- USN AMINO STIM | 30 SERVIDAS | ID: 20917 | ₡15,900 | https://vitalikecr.com/producto/usn-amino-stim-30-servidas/
-- NUTRAKEY BCAA OPTIMA UVA | 30 SERVIDAS | ID: 11902 | ₡17,000 (normal ₡23,900) | https://vitalikecr.com/producto/nutrakey-bcaa-optima-uva-30-servidas/
-- NUTRABIO AMINO KICK | 30 SERVIDAS | ID: 6244 | ₡19,000 | https://vitalikecr.com/producto/nutrabio-amino-kick-30-servidas/
-- LANDERFIT AMINO REVOLUTION + ELECTROLITOS | 30 SERVIDAS | ID: 4998 | ₡19,900 | https://vitalikecr.com/producto/landerfit-amino-revolution-electrolitos-30-servidas/
-- GHOST BCAA | 30 SERVIDAS | ID: 4959 | ₡20,400 | https://vitalikecr.com/producto/ghost-bcaa-30-servidas/
-- NUTRABIO LEUCINA EN POLVO | 500 G | ID: 4584 | ₡26,000 | https://vitalikecr.com/producto/nutrabio-leucina-en-polvo-500-g/
-- EVOGEN CELL KEM PURE COVER | 30 SERVIDAS | ID: 4118 | ₡24,000 (normal ₡36,000) | https://vitalikecr.com/producto/evogen-cell-kem-pure-cover-30-servidas/
-
-## BEBIDAS ENERGÉTICAS
-- RAW BUM ENERGY | 12 OZ | ID: 26643 | ₡1,800 | https://vitalikecr.com/producto/raw-bum-energy-12-oz/
-- USN BEBIDA ENERGÉTICA QHUSH | 500 ML | ID: 6654 | ₡1,800 | https://vitalikecr.com/producto/usn-bebida-energetica-qhush-500-ml/
-- RYSE FULL ENERGY BEBIDA ENERGÉTICA | ID: 6490 | ₡1,800 | https://vitalikecr.com/producto/ryse-full-energy-bebida-energetica/
-
-## CHIPS
-- QUEST TORTILLA STYLE PROTEIN CHIPS | 1 UNIDAD | ID: 26635 | ₡1,800 | https://vitalikecr.com/producto/quest-tortilla-style-protein-chips-1-unidad/
-- PURE PROTEIN POPPED CRISPS | 1 UNIDAD | ID: 22202 | ₡1,800 | https://vitalikecr.com/producto/pure-protein-popped-crisps-1-unidad/
-
-## BARRITAS
-- PURE PROTEIN BARRA DE PROTEÍNA | ID: 26628 | ₡1,500 | https://vitalikecr.com/producto/pure-protein-barra-de-proteina/
-- MRS TASTE TASTY BARRITA DE PROTEÍNA | ID: 26618 | ₡1,500 | https://vitalikecr.com/producto/mrs-taste-tasty-barrita-de-proteina/
-- MRS TASTE ALFAJOR GALLETA | ID: 26611 | ₡1,500 | https://vitalikecr.com/producto/mrs-taste-alfajor-galleta/
-- ZORAW BARRAS DE CHOCOLATE | ID: 9503 | ₡3,375 | https://vitalikecr.com/producto/zoraw-barras-de-chocolate/
-
-## COLAGENOS
-- USN COLAGENO PEPTIDES | 30 SERVIDAS | ID: 26619 | ₡21,000 | https://vitalikecr.com/producto/usn-colageno-peptides-30-servidas/
+- REDCON CANTEEN | 30 SERVIDAS | ID: 26671 | ₡19,000 | https://vitalikecr.com/carrito/?add-to-cart=26671
+- REDCON BCAA BREACH ENERGY | 30 SERVIDAS | ID: 26661 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=26661
+- NUTRABIO SUPER CARB | 30 SERVIDAS | ID: 21712 | ₡28,500 | https://vitalikecr.com/carrito/?add-to-cart=21712
+- USN BCAA + AMINO | 30 SERVIDAS | ID: 20926 | ₡19,900 | https://vitalikecr.com/carrito/?add-to-cart=20926
+- NUTRAKEY BCAA OPTIMA UVA | 30 SERVIDAS | ID: 11902 | ₡17,000 (normal ₡23,900) | https://vitalikecr.com/carrito/?add-to-cart=11902
+- NUTREX EAA + HIDRATACION | 30 SERVIDAS | ID: 6318 | ₡18,500 | https://vitalikecr.com/carrito/?add-to-cart=6318
+- NUTRABIO INTRABLAST AMINO + EAA + BCAA | 30 SERVIDAS | ID: 6277 | ₡29,900 | https://vitalikecr.com/carrito/?add-to-cart=6277
+- NUTRABIO AMINO KICK | 30 SERVIDAS | ID: 6244 | ₡19,000 | https://vitalikecr.com/carrito/?add-to-cart=6244
+- LANDERFIT AMINO REVOLUTION + ELECTROLITOS | 30 SERVIDAS | ID: 4998 | ₡19,900 | https://vitalikecr.com/carrito/?add-to-cart=4998
+- GHOST BCAA | 30 SERVIDAS | ID: 4959 | ₡20,400 | https://vitalikecr.com/carrito/?add-to-cart=4959
+- EVL BCAA ENERGY | 30-65 SERVIDAS | ID: 4876 | ₡17,500 | https://vitalikecr.com/carrito/?add-to-cart=4876
+- NUTRABIO LEUCINA EN POLVO | 500 G | ID: 4584 | ₡26,000 | https://vitalikecr.com/carrito/?add-to-cart=4584
+- NUTRABIO L-ARGININA EN POLVO | 250G | ID: 4581 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=4581
+- NUTRABIO CARBOHIDRATOS EN POLVO CARBO MAX SIN SABOR | 75 SERVIDAS | ID: 4568 | ₡29,900 | https://vitalikecr.com/carrito/?add-to-cart=4568
+- EVOGEN CELL KEM PURE COVER | 30 SERVIDAS | ID: 4118 | ₡24,000 (normal ₡36,000) | https://vitalikecr.com/carrito/?add-to-cart=4118
 
 ## BEBIDAS
-- GHOST BEBIDA HIDRATANTE | 500 ML | ID: 26605 | ₡1,600 | https://vitalikecr.com/producto/ghost-bebida-hidratante-500-ml/
-- PURE PROTEIN PROTEINA RTD | 1 UNIDAD | ID: 22214 | ₡2,000 | https://vitalikecr.com/producto/pure-protein-proteina-rtd-1-unidad/
+- RAW BUM ENERGY | 12 OZ | ID: 26643 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=26643
+- GHOST BEBIDA HIDRATANTE | 500 ML | ID: 26605 | ₡1,600 | https://vitalikecr.com/carrito/?add-to-cart=26605
+- PURE PROTEIN PROTEINA RTD | 1 UNIDAD | ID: 22214 | ₡2,000 | https://vitalikecr.com/carrito/?add-to-cart=22214
+- TOTAL WAR SHOT | 1 UNIDAD | ID: 22088 | ₡1,900 | https://vitalikecr.com/carrito/?add-to-cart=22088
 
-## NUEVOS
-- NUTRABIO MAGNESIO GLYCINATE EN POLVO | 50 SERVIDAS | ID: 26559 | ₡20,200 | https://vitalikecr.com/producto/nutrabio-magnesio-glycinate-en-polvo-50-servidas/
-- NUTRABIO MAGNESIO GLYCINATE | 120 CÁPSULAS | ID: 26558 | ₡17,200 | https://vitalikecr.com/producto/nutrabio-magnesio-glycinate-120-capsulas/
-- GHOST CLEAR WHEY ISOLATE  | 1LB | ID: 22774 | ₡32,900 | https://vitalikecr.com/producto/ghost-clear-whey-isolate-1lb/
-- GHOST BASICS VITAMIN C AND GLUTATHIONE | 30 CAPSÚLAS | ID: 22773 | ₡19,500 | https://vitalikecr.com/producto/ghost-basics-vitamin-c-and-glutathione-30-capsulas/
-- RAW CBUM ESSENTIAL PRE-ENTRENO / 30 SERVIDAS | ID: 22270 | ₡19,900 | https://vitalikecr.com/producto/raw-cbum-essential-pre-entreno-30-servidas/
-- PROSUPPS PROTEÍNA WHEY | 5 LBS | ID: 22229 | ₡39,900 | https://vitalikecr.com/producto/prosupps-proteina-whey-5-lbs/
-- MUSCLESPORT FRUITS & GREENS | 30 SERVIDAS | ID: 22083 | ₡23,900 | https://vitalikecr.com/producto/musclesport-fruits-greens-30-servidas/
-- VENUM GUANTES DE BOXEO CHALLENGER 4.0 | 12-14-16 OZ | ID: 21595 | ₡39,900 | https://vitalikecr.com/producto/venum-guantes-de-boxeo-challenger-4-0-12-14-16-oz/
-- VENUM GUANTES DE BOXEO CONTENDER 1.5 | 12-14-16 OZ | ID: 21528 | ₡27,900 | https://vitalikecr.com/producto/venum-guantes-de-boxeo-contender-1-5-12-14-16-oz/
-- VENUM GUANTES MMA IMPACT EVO | ID: 21485 | ₡36,900 | https://vitalikecr.com/producto/venum-guantes-mma-impact-evo/
-- VENUM RODILLERAS KONTACT | ID: 21412 | ₡24,900 | https://vitalikecr.com/producto/venum-rodilleras-kontac/
-- VENUM CODERAS KONTACT | ID: 21392 | ₡12,900 | https://vitalikecr.com/producto/venum-coderas-kontact/
-- VENUM BUCAL CHALLENGER | ID: 21367 | ₡9,900 | https://vitalikecr.com/producto/venum-bucal-challenger/
-- PRIMEVAL PROTEINA WHEY | 20 SERVIDAS | ID: 21282 | ₡20,000 | https://vitalikecr.com/producto/primeval-proteina-whey-20-servidas/
-- CELLUCOR PRE-ENTRENO C4 | 30-50 SERVIDAS | ID: 20221 | ₡19,500 | https://vitalikecr.com/producto/cellucor-pre-entreno-c4-30-servidas/
-
-## ESTIMULANTES PARA PERDIDA DE PESO
-- NUTREX LIPO6 CON 50% DE DESCUENTO | ID: 26534 | ₡ | https://vitalikecr.com/producto/nutrex-lipo6-con-50-de-descuento/
-- NUTREX LIPO6 HARDCORE QUEMADOR DE GRASA | 60 CAPSULAS | ID: 4623 | ₡13,250 (normal ₡26,500) | https://vitalikecr.com/producto/nutrex-lipo6-hardcore-quemador-de-grasa-60-capsulas/
-- NUTREX LIPO6 BLACK ULTRA CONCENTRADO | 60 CÁPSULAS | ID: 4619 | ₡11,750 (normal ₡23,500) | https://vitalikecr.com/producto/nutrex-lipo6-black-ultra-concentrado-60-capsulas/
-- NUTREX LIPO6 BLACK INTENSE ULTRA CONCENTRADO | 60 CÁPSULAS | ID: 4618 | ₡13,750 (normal ₡27,500) | https://vitalikecr.com/producto/nutrex-lipo6-black-intense-ultra-concentrado-60-capsulas/
-- NUTRABIO CLA 800 MG | 90 CÁPSULAS | ID: 4570 | ₡15,800 | https://vitalikecr.com/producto/nutrabio-cla-800-mg-90-capsulas/
-- NUTRABIO CAFFPLUS CAFEINA+ TEANINA | 60 CAPS | ID: 4566 | ₡16,000 | https://vitalikecr.com/producto/nutrabio-caffplus-cafeina-teanina-60-caps/
-
-## CREATINAS
-- COMBO MÁS PODEROSO | TOTAL WAR 30 SERVIDAS + NUTRABIO CREATINA 100 SERV | ID: 26533 | ₡39,650 (normal ₡53,900) | https://vitalikecr.com/producto/combo-mas-poderoso-total-war-30-servidas-nutrabio-creatina-100-serv/
-- COMBO MÁS PODEROSO | TOTAL WAR 30 SERVIDAS + NUTRABIO CREATINA 60 SERV | ID: 26532 | ₡34,850 (normal ₡44,300) | https://vitalikecr.com/producto/combo-mas-poderoso-total-war-30-servidas-nutrabio-creatina-60-serv/
-- COMBO MÁS PODEROSO | TOTAL WAR 30 SERVIDAS + NUTRABIO CREATINA 30 SERV | ID: 26531 | ₡32,150 (normal ₡38,900) | https://vitalikecr.com/producto/combo-mas-poderoso-total-war-30-servidas-nutrabio-creatina-30-serv/
-- COMBO GANADOR | NUTREX PROTEÍNA ISOFIT 5LB + NUTREX CREATINA 30 SERVIDAS | ID: 26528 | ₡56,500 (normal ₡67,000) | https://vitalikecr.com/producto/combo-ganador-nutrex-proteina-isofit-5lb-nutrex-creatina-30-servidas/
-- COMBO EXPLOSIVO | NUTREX PROTEÍNA WHEY 5LB + NUTREX CREATINA 30 SERVIDAS GRATIS | ID: 26522 | ₡44,500 (normal ₡55,000) | https://vitalikecr.com/producto/combo-explosivo-nutrex-proteina-whey-5lb-nutrex-creatina-30-servidas-gratis/
-- RAW CREATINA CON SABOR | 30 SERVIDAS | ID: 23731 | ₡12,900 | https://vitalikecr.com/producto/raw-creatina-con-sabor-30-servidas/
-- GHOST BASICS CREATINA | 50 SERVIDAS | ID: 22762 | ₡19,500 | https://vitalikecr.com/producto/ghost-basics-creatina-50-servidas/
-- RAW CREATINA MONOHIDRATADA EN POLVO | 1 UNIDAD | ID: 22250 | ₡600 | https://vitalikecr.com/producto/raw-creatina-monohidratada-en-polvo-1-unidad/
-- NUTREX CREATINA PARA MUJER | 30 SERVIDAS | ID: 22095 | ₡16,900 | https://vitalikecr.com/producto/nutrex-creatina-para-mujer-60-servidas/
-- MUSCLESPORT CREATINA + HIDRATACIÓN | 60 SERVIDAS | ID: 22057 | ₡21,800 | https://vitalikecr.com/producto/musclesport-creatina-hidratacion-60-servidas/
-- NUTRABIO CREATINA MONOHIDRATADA | 150 CÁPSULAS | ID: 22029 | ₡17,000 | https://vitalikecr.com/producto/nutrabio-creatina-monohidratada-150-capsulas/
-- NUTREX CREATINA CON SABOR | 60 SERVIDAS | ID: 20784 | ₡15,900 | https://vitalikecr.com/producto/nutrex-creatina-con-sabor-60-servidas/
-- ABE CREATINA | 60 SERVIDAS | ID: 9615 | ₡17,000 | https://vitalikecr.com/producto/abe-creatina-60-servidas/
-- REDCON1 TANGO CREATINA | 30 SERVIDAS | ID: 6459 | ₡24,000 | https://vitalikecr.com/producto/redcon1-tango-creatina-30-servidas/
-- NUTRABIO CREATINA SIN SABOR | 30-60-100 SERVIDAS | ID: 6273 | ₡13,500 | https://vitalikecr.com/producto/nutrabio-creatina-sin-sabor-30-60-100-servidas/
-- NUTRABIO CGT MAX  | 40 SERVIDAS | ID: 6266 | ₡26,900 | https://vitalikecr.com/producto/nutrabio-cgt-max-40-servidas/
-- MUSCLETECH CELL-TECH CREACTOR | 120 SERVIDAS | ID: 5065 | ₡26,900 | https://vitalikecr.com/producto/muscletech-cell-tech-creactor-120-servidas/
-- REDCON1 CREATINA MONOHIDRATADA | 60 SERVIDAS | ID: 4632 | ₡17,900 | https://vitalikecr.com/producto/redcon1-creatina-monohidratada-60-servidas/
-- RAW CREATINA | 50-100-250 SERVIDAS | ID: 4628 | ₡17,000 | https://vitalikecr.com/producto/raw-creatina-100-servidas/
-- MUSCLETECH CREATINA 100% PLATINUM | 80-90 SERVIDAS | ID: 4199 | ₡23,000 | https://vitalikecr.com/producto/muscletech-creatina-100-platinum-80-servidas/
-- LANDERFIT CREATINA SIN SABOR 3 G | 100 SERVIDAS | ID: 4124 | ₡18,000 | https://vitalikecr.com/producto/landerfit-creatina-sin-sabor-3-g-100-servidas/
-
-## PROMOCIONES
-- PRODUCTOS ESTRELLA | ID: 26530 | ₡ | https://vitalikecr.com/producto/productos-estrella/
-
-## PROTEÍNAS
-- NUTRABIO CASEINA | 2 LBS | ID: 23614 | ₡33,900 | https://vitalikecr.com/producto/nutrabio-caseina-2-lbs/
-
-## GOMITAS
-- THE GUMMIES SHILAJIT CON VITAMINA C | 60 GOMITAS | ID: 22200 | ₡16,000 | https://vitalikecr.com/producto/the-gummies-shilajit-con-vitamina-c/
-- THE GUMMIES OMEGA 3 | 60 GOMITAS | ID: 21794 | ₡16,000 | https://vitalikecr.com/producto/the-gummies-omega-3-60-gomitas/
-- THE GUMMIES VINAGRE DE MANZANA | 60 GOMITAS | ID: 4672 | ₡8,000 (normal ₡11,900) | https://vitalikecr.com/producto/the-gummies-vinagre-de-manzana-60-gomitas/
-- THE GUMMIES MULTIVITAMINICO MUJER | 60 GOMITAS | ID: 4671 | ₡11,900 | https://vitalikecr.com/producto/the-gummies-multivitaminico-mujer-60-gomitas/
-- THE GUMMIES MULTIVITAMINICO HOMBRE | 60 GOMITAS | ID: 4670 | ₡11,900 | https://vitalikecr.com/producto/the-gummies-multivitaminico-hombre-60-gomitas/
-- THE GUMMIES MELATONINA CON MAGNESIO | 60 GOMITAS | ID: 4669 | ₡11,900 | https://vitalikecr.com/producto/the-gummies-melatonina-con-magnesio-60-gomitas/
-- THE GUMMIES CURCUMA Y JENGIBRE | 60 GOMITAS | ID: 4668 | ₡8,000 (normal ₡11,900) | https://vitalikecr.com/producto/the-gummies-curcuma-y-jengibre-60-gomitas/
-- THE GUMMIES BIOTINA | 60 GOMITAS | ID: 4666 | ₡8,000 (normal ₡11,900) | https://vitalikecr.com/producto/the-gummies-biotina-60-gomitas/
-
-## GLUTAMINAS
-- NUTREX GLUTAMINA DRIVE | 60-200 SERVIDAS | ID: 22177 | ₡15,900 | https://vitalikecr.com/producto/nutrex-glutamina-drive-60-200-servidas/
-- NUTRABIO GLUTAMINA SIN SABOR | 100 SERVIDAS | ID: 4578 | ₡23,900 | https://vitalikecr.com/producto/nutrabio-glutamina-sin-sabor-100-servidas/
-- LANDERFIT GLUTAMINA SIN SABOR | 60 SERVIDAS | ID: 4125 | ₡16,900 | https://vitalikecr.com/producto/landerfit-glutamina-sin-sabor-60-servidas/
-
-## IMPLEMENTOS DE ENTRENAMIENTO
-- NORULES CHALECO DE PESO | SENCILLO | ID: 20610 | ₡20,000 | https://vitalikecr.com/producto/norules-chaleco-de-peso-sencillo/
-- NORULES PESA DE TOBILLO | ID: 20588 | ₡10,000 | https://vitalikecr.com/producto/norules-pesa-de-tobillo/
-- NORULES PESA RUSA | ID: 20561 | ₡8,000 | https://vitalikecr.com/producto/norules-pesa-rusa/
-- STAY ROLLER STICK | ID: 6574 | ₡7,500 | https://vitalikecr.com/producto/stay-roller-stick/
-
-## NUEVA COLECCIÓN NO RULES
-- NORULES ENTERIZO BAILARINA | ID: 20467 | ₡19,500 | https://vitalikecr.com/producto/norules-enterizo-bailarina-2/
-- NORULES ENTERIZO LARGO | ID: 20461 | ₡19,500 | https://vitalikecr.com/producto/norules-enterizo-largo/
-- NORULES ENTERIZO CORTO SESGO BLANCO | ID: 20457 | ₡19,500 | https://vitalikecr.com/producto/norules-enterizo-corto-sesgo-blanco/
-- NORULES ENTERIZO CORTO | ID: 20454 | ₡19,500 | https://vitalikecr.com/producto/norules-enterizo-corto/
-- NORULES CAMISETA DAMA ESQUELETO LARGO | CARTA | ID: 20439 | ₡8,000 | https://vitalikecr.com/producto/norules-camiseta-dama-esqueleto-largo-carta/
-- NORULES RUNNING CORTE LASER | ID: 20433 | ₡12,000 | https://vitalikecr.com/producto/norules-running-corte-laser/
-- NORULES TENNIS SKIRT | ID: 20406 | ₡10,000 | https://vitalikecr.com/producto/norules-tennis-skirt/
-- NORULES CAMISETA DAMA ESQUELETO LARGO | ESTAMPILLA | ID: 20401 | ₡8,000 | https://vitalikecr.com/producto/norules-esqueleto-largo/
-- NORULES CHAQUETA CORTAVIENTOS | ID: 20364 | ₡20,000 | https://vitalikecr.com/producto/norules-chaqueta-cortavientos/
-- NORULES SHORT PRETINA ALTA | ID: 20349 | ₡8,000 | https://vitalikecr.com/producto/norules-short-pretina-alta/
-- NORULES SHORT PERFORMANCE | ID: 20323 | ₡8,000 | https://vitalikecr.com/producto/norules-short-performance/
-- NORULES PANTALONETA AJUSTADA GRIS CLARO | ID: 10898 | ₡12,000 | https://vitalikecr.com/producto/norules-pantaloneta-ajustada-gris-claro/
-- NORULES VISERA | ID: 10834 | ₡9,000 | https://vitalikecr.com/producto/norules-visera/
-
-## PROTEÍNA HIDROLIZADA | ISOLADA
-- DYMATIZE ISO 100 | 1.3LBS | ID: 11530 | ₡31,900 | https://vitalikecr.com/producto/dymatize-iso-100-1-3lbs/
-- DYMATIZE ISO 100 | 3LBS | ID: 11526 | ₡47,500 | https://vitalikecr.com/producto/dymatize-iso-100-3lbs/
-- DYMATIZE ISO 100 | 5LBS | ID: 11471 | ₡69,900 | https://vitalikecr.com/producto/dymatize-iso-100-5lbs/
-- LANDERFIT PROTEINA ISO DEFINITION | 5 LBS | ID: 9606 | ₡49,500 | https://vitalikecr.com/producto/landerfit-proteina-iso-definition-5-lbs/
-- EVL PROTEÍNA 100% ISOLADA | 1 LB | ID: 10211 | ₡17,900 | https://vitalikecr.com/producto/evl-proteina-100-isolada-1-lb/
-- RAW CBUM PROTEINA ITHOLATE | 2 LBS - 5 LBS | ID: 6370 | ₡35,900 | https://vitalikecr.com/producto/raw-cbum-proteina-itholate-2-lbs/
-
-## PROPULSORES DE TESTOSTERONA
-- NUTRABIO TRIBULUS TERRESTRIS | 90 CÁPSULAS | ID: 10647 | ₡15,100 | https://vitalikecr.com/producto/nutrabio-tribulus-terrestris-90-capsulas/
-
-## PROTEÍNA WHEY
-- EVL PROTEÍNA 100% WHEY | 1 LB | ID: 10210 | ₡15,900 | https://vitalikecr.com/producto/evl-proteina-100-whey-1-lb/
-- EVL PROTEÍNA STACKED | 58 SERVIDAS | ID: 10199 | ₡39,900 | https://vitalikecr.com/producto/evl-proteina-stacked-58-servidas/
-- NUTRABIO PROTEÍNA CLASSIC WHEY | 67 SERVIDAS | ID: 6287 | ₡49,900 | https://vitalikecr.com/producto/nutrabio-proteina-classic-whey-67-servidas/
-- LANDERFIT PROTEINA WOMENS | 2 LBS | ID: 9611 | ₡31,900 | https://vitalikecr.com/producto/landerfit-proteina-womens-2-lbs/
-- TERROR LABZ PROTEÍNA WHEY | 64 SERVIDAS | ID: 6627 | ₡45,900 | https://vitalikecr.com/producto/terror-labz-proteina-whey-64-servidas/
-- MUSCLETECH NITRO TECH 100% WHEY GOLD / 2LBS-5LBS | ID: 5075 | ₡28,500 | https://vitalikecr.com/producto/muscletech-nitro-tech-100-whey-gold-2lbs-5lbs/
-- MUSCLETECH NITRO TECH / 2 LBS -4 LBS | ID: 5071 | ₡28,500 | https://vitalikecr.com/producto/muscletech-nitro-tech-4-lbs/
-- GHOST PROTEINA WHEY | 26 SERVIDAS | ID: 4983 | ₡33,500 | https://vitalikecr.com/producto/ghost-proteina-whey-26-servidas/
-
-## PRE - ENTRENOS
-- EVL ENGN SHRED PRE- ENTRENO | 30 SERVIDAS | ID: 10166 | ₡19,900 | https://vitalikecr.com/producto/evl-engn-shred-pre-entreno-30-servidas/
-- LANDERFIT PRE-ENTRENO MUSCLE PUMP |  30 SERVIDAS | ID: 5002 | ₡25,400 | https://vitalikecr.com/producto/landerfit-pre-entreno-muscle-pump-30-servidas/
-- REDCON1 TOTAL WAR PRE-ENTRENO | 30 SERVIDAS | ID: 6466 | ₡25,400 | https://vitalikecr.com/producto/redcon1-total-war-pre-entreno-30-servidas/
-- GHOST PRE ENTRENO LEGEND | 30 SERVIDAS | ID: 4973 | ₡26,100 | https://vitalikecr.com/producto/ghost-pre-entreno-legend-30-servidas/
-
-## MUJER
-- TOP CRUZADO RIB AZUL | ID: 6634 | ₡16,400 | https://vitalikecr.com/producto/top-cruzado-rib-azul/
-- TOP CRUZADO RIB AMARILLO | ID: 6630 | ₡16,400 | https://vitalikecr.com/producto/top-cruzado-rib-amarillo/
-- NORULES TOP RUNNING | NEGRO | ID: 6139 | ₡16,000 | https://vitalikecr.com/producto/norules-top-running-negro/
-- NORULES TOP RUNNING | LILA | ID: 6131 | ₡16,000 | https://vitalikecr.com/producto/norules-top-running-lila/
-- NORULES SHORT CON LYCRA | HAPPY HILLS | ID: 6085 | ₡18,700 | https://vitalikecr.com/producto/norules-short-con-lycra-happy-hills/
-- NORULES LYCRA PRETINA ALTA RAINBOW | ID: 5636 | ₡15,100 | https://vitalikecr.com/producto/norules-lycra-pretina-alta-rainbow/
-- NORULES LYCRA PRETINA ALTA EXTASIS | ID: 5628 | ₡15,100 | https://vitalikecr.com/producto/norules-lycra-pretina-alta-extasis/
-- NORULES LYCRA PRETINA ALTA | VERDE MENTA | ID: 5624 | ₡15,100 | https://vitalikecr.com/producto/norules-lycra-pretina-alta-verde-menta/
-- NORULES LYCRA PRETINA ALTA | VERDE ESMERALDA | ID: 5620 | ₡15,100 | https://vitalikecr.com/producto/norules-lycra-pretina-alta-verde-esmeralda/
-- NORULES LYCRA PRETINA ALTA | FOSIL MONKEY | ID: 5598 | ₡15,100 | https://vitalikecr.com/producto/norules-lycra-pretina-alta-fosil-monkey/
-- NORULES CROP TOP TELA FRIA | GRIS | ID: 5508 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-tela-fria-gris/
-- NORULES CROP TOP SIN COSTURA | ROPE CLIMB | ID: 5491 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-sin-costura-rope-climb/
-- NORULES CROP TOP SIN COSTURA | LETRAS | ID: 5479 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-sin-costura-letras/
-- NORULES CROP TOP SIN COSTURA | AS MANY REPETITIONS | ID: 5471 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-sin-costura-as-many-repetitions/
-- NORULES CROP TOP SIN COSTURA |  PURGE YOUR PAIN | ID: 5463 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-sin-costura-purge-your-pain/
-- NORULES BUDDY SHORT VERDE OLIVA | ID: 5137 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-verde-oliva/
-- NORULES BUDDY SHORT RIB AZUL | ID: 5133 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-rib-azul/
-- NORULES BUDDY SHORT PATCHWORK | ID: 5129 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-patchwork/
-- NORULES BUDDY SHORT HAPPY HILLS | ID: 5117 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-happy-hills/
-- NORULES BUDDY SHORT CORAL | ID: 5113 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-coral/
-- NORULES BUDDY SHORT BLACK TRIP | ID: 5109 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-black-trip/
-- NORULES BUDDY SHORT FUNGI | ID: 5105 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-fungi/
-- NORULES BUDDY SHORT  CATRINA *NUEVA COLECCION* | ID: 5101 | ₡12,000 | https://vitalikecr.com/producto/norules-buddy-short-catrina-nueva-coleccion/
-- NO RULES BIKER VERDE ESMERALDA | ID: 5089 | ₡16,000 | https://vitalikecr.com/producto/no-rules-biker-verde-esmeralda/
-- NO RULES BIKER NEGRO | ID: 5085 | ₡16,000 | https://vitalikecr.com/producto/no-rules-biker-negro/
-- NORULES TOP CRUZADO | NEGRO | ID: 4406 | ₡16,400 | https://vitalikecr.com/producto/norules-top-cruzado-negro/
-- NORULES SHORT CON PUSH | SALMON | ID: 4397 | ₡13,000 | https://vitalikecr.com/producto/norules-short-con-push-salmon/
-- NORULES BIKER SIN COSTURA | TERRACOTA | ID: 4243 | ₡14,000 | https://vitalikecr.com/producto/norules-biker-sin-costura-terracota/
-- NORULES BIKER CON COSTURA | TERRACOTA | ID: 4237 | ₡14,000 | https://vitalikecr.com/producto/norules-biker-con-costura-terracota/
-- NORULES BIKER CON COSTURA | CAOBA | ID: 4220 | ₡14,000 | https://vitalikecr.com/producto/norules-biker-con-costura-caoba/
-
-## LIQUIDACIÓN
-- REDCON1 PROTEÍNA WHEY RATION | 65 SERVIDAS | ID: 6454 | ₡41,310 | https://vitalikecr.com/producto/redcon1-proteina-whey-ration-65-servidas/
-
-## ESTÉTICA
-- PRO TAN | KIT DE TINTE PARA COMPETICIÓN | ID: 6367 | ₡22,000 | https://vitalikecr.com/producto/pro-tan-kit-de-tinte-para-competicion/
-- MUSCLE UP HAIR AWAY | ID: 4198 | ₡12,600 | https://vitalikecr.com/producto/muscle-up-hair-away/
-
-## HOMBRE
-- PANTALONETA BE VERDE ESMERALDA | ID: 6363 | ₡16,000 | https://vitalikecr.com/producto/pantaloneta-be-verde-esmeralda/
-- NORULES PANTALONETA RUNNING BEIGE NEON | ID: 5910 | ₡18,000 | https://vitalikecr.com/producto/norules-pantaloneta-running-beige-neon/
-- NORULES PANTALONETA CROSSFIT 3.0 FUNGI | ID: 5839 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-crossfit-3-0-fungi/
-- NORULES PANTALONETA CROSSFIT 3.0 BABY BLUE | ID: 5809 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-crossfit-3-0-baby-blue/
-- NORULES PANTALONETA CROSSFIT 3.0 | NIGTH DESSERT | ID: 5799 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-crossfit-3-0-nigth-dessert/
-- NORULES PANTALONETA CROSSFIT 3.0 | DESSERT | ID: 5774 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-crossfit-3-0-dessert/
-- NORULES PANTALONETA CROSSFIT 3.0 | CACTUS | ID: 5769 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-crossfit-3-0-cactus/
-- NORULES PANTALONETA CROSSFIT 3.0 | BLACK LEMON | ID: 5760 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-crossfit-3-0-black-lemon/
-- NORULES PANTALONETA BE VERDE AGUA | ID: 5744 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-be-verde-agua/
-- NORULES PANTALONETA BE AZUL OSCURO | ID: 5737 | ₡16,000 | https://vitalikecr.com/producto/norules-pantaloneta-be-azul-oscuro/
-- NORULES PANTALONETA AJUSTADA BLANCA | ID: 5685 | ₡14,000 | https://vitalikecr.com/producto/norules-pantaloneta-ajustada-blanca/
-- NO RULES MEDIAS | ID: 5093 | ₡ | https://vitalikecr.com/producto/no-rules-medias/
-
-## NO RULES
-- NORULES SOMBRERO BUCKET | ID: 6108 | ₡10,500 | https://vitalikecr.com/producto/norules-sombrero-bucket/
-- NORULES CANGURO SENCILLO | ID: 5373 | ₡9,900 | https://vitalikecr.com/producto/norules-canguro-sencillo/
-
-## BLUSAS
-- NORULES CROP TOP SIN COSTURA | THE PROCESS | ID: 5495 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-sin-costura-the-process/
-- NORULES CROP TOP SIN COSTURA | RAINBOW | ID: 5487 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-sin-costura-rainbow/
-- NORULES CROP TOP SIN COSTURA | BLANCO | ID: 5475 | ₡12,500 | https://vitalikecr.com/producto/norules-crop-top-sin-costura-blanco/
-
-## CAMISETAS
-- NORULES CAMISETA TELA FRIA BE NEGRA | ID: 5359 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-be-negra/
-- NORULES CAMISETA TELA FRIA BE DURAZNO | ID: 5357 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-be-durazno/
-- NORULES CAMISETA TELA FRIA BE BLANCA | ID: 5354 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-be-blanca/
-- NORULES CAMISETA TELA FRIA BE AMARILLA | ID: 5352 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-be-amarilla/
-- NORULES CAMISETA TELA FRIA | PINK FLAG | ID: 5347 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-pink-flag/
-- NORULES CAMISETA TELA FRIA | OSO | ID: 5342 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-oso/
-- NORULES CAMISETA TELA FRIA | NORULES TEAM | ID: 5339 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-norules-team/
-- NORULES CAMISETA TELA FRIA | MORA GYM WEIGHTS | ID: 5334 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-mora-gym-weights/
-- NORULES CAMISETA TELA FRIA | GRIS LOGO 3D | ID: 5326 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-gris-logo-3d/
-- NORULES CAMISETA TELA FRIA | DUST TO GLORY NEGRA | ID: 5321 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-dust-to-glory-negra/
-- NORULES CAMISETA TELA FRIA | DO CROSSFIT BE HAPPY | ID: 5316 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-do-crossfit-be-happy/
-- NORULES CAMISETA TELA FRIA | DISTORSION | ID: 5312 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-distorsion/
-- NORULES CAMISETA TELA FRIA |  THE ONLY WEIGHT LIFT | ID: 5307 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tela-fria-the-only-weight-lift/
-- NORULES CAMISETA TACTO FRIO NO RULES BLACK | ID: 5302 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tacto-frio-no-rules-black/
-- NORULES CAMISETA TACTO FRIO BASICA BE BLANCA | ID: 5284 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-tacto-frio-basica-be-blanca/
-- NORULES CAMISETA ESQUELETO SIN COSTURA | WANTED | ID: 5279 | ₡18,800 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-sin-costura-wanted/
-- NORULES CAMISETA ESQUELETO SIN COSTURA | TIRE FLIP | ID: 5271 | ₡18,800 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-sin-costura-tire-flip/
-- NORULES CAMISETA ESQUELETO SIN COSTURA | THE PROCESS | ID: 5266 | ₡18,800 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-sin-costura-the-process/
-- NORULES CAMISETA ESQUELETO SIN COSTURA | RAINBOW | ID: 5257 | ₡18,800 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-sin-costura-rainbow/
-- NORULES CAMISETA ESQUELETO SIN COSTURA | PURGE YOUR PAIN | ID: 5252 | ₡18,800 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-sin-costura-purge-your-pain/
-- NORULES CAMISETA ESQUELETO SIN COSTURA | LILA | ID: 5240 | ₡18,800 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-sin-costura-lila/
-- NORULES CAMISETA ESQUELETO SIN COSTURA | AHAP | ID: 5229 | ₡18,800 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-sin-costura-ahap/
-- NORULES CAMISETA ESQUELETO BASICO NEGRA | ID: 5189 | ₡12,500 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-basico-negra/
-- NORULES CAMISETA ESQUELETO BASICO NARANJA | ID: 5184 | ₡12,500 | https://vitalikecr.com/producto/norules-camiseta-esqueleto-basico-naranja/
-- NORULES CAMISETA ALGODON | RADIAN MONKEY | ID: 5151 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-algodon-radian-monkey/
-- NORULES CAMISETA ALGODON | GUMMY BEAR | ID: 5146 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-algodon-gummy-bear/
-- NORULES CAMISETA ALGODON | DOPAMINE | ID: 5141 | ₡19,700 | https://vitalikecr.com/producto/norules-camiseta-algodon-dopamine/
-- CAMISETA ALGODÓN NEGRA THIS IS A CHEAT | ID: 4700 | ₡19,700 | https://vitalikecr.com/producto/camiseta-algodon-negra-this-is-a-cheat/
+## CHIPS
+- QUEST TORTILLA STYLE PROTEIN CHIPS | 1 UNIDAD | ID: 26635 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=26635
+- PURE PROTEIN POPPED CRISPS | 1 UNIDAD | ID: 22202 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=22202
 
 ## L- CARNITINAS
-- GHOST BURN | 40 SERVIDAS | ID: 4964 | ₡34,900 | https://vitalikecr.com/producto/ghost-burn-40-servidas/
+- NUTREX CARNIBURN | 31 SERVIDAS | ID: 26621 | ₡24,600 | https://vitalikecr.com/carrito/?add-to-cart=26621
+- NUTRABIO L-CARNITINA 3000MG | 31 SERVIDAS | ID: 9224 | ₡18,000 | https://vitalikecr.com/carrito/?add-to-cart=9224
+- NUTREX L-CARNITINA 3000 | 31 SERVIDAS | ID: 6328 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=6328
+- GHOST BURN | 40 SERVIDAS | ID: 4964 | ₡34,900 | https://vitalikecr.com/carrito/?add-to-cart=4964
+
+## COLAGENOS
+- USN COLAGENO PEPTIDES | 30 SERVIDAS | ID: 26619 | ₡21,000 | https://vitalikecr.com/carrito/?add-to-cart=26619
+
+## BARRITAS
+- MRS TASTE TASTY BARRITA DE PROTEÍNA | ID: 26618 | ₡1,500 | https://vitalikecr.com/carrito/?add-to-cart=26618
+- ALPHA PRIME BROWNIE | ID: 9506 | ₡2,500 | https://vitalikecr.com/carrito/?add-to-cart=9506
+- ZORAW BARRAS DE CHOCOLATE | ID: 9503 | ₡3,375 | https://vitalikecr.com/carrito/?add-to-cart=9503
+
+## ESTIMULANTES PARA PERDIDA DE PESO
+- NUTREX LIPO6 CON 50% DE DESCUENTO | ID: 26534 | ₡ | https://vitalikecr.com/carrito/?add-to-cart=26534
+- NUTREX LIPO6 NIGHTIME QUEMADOR DE GRASA | 30 CAPSULAS | ID: 4624 | ₡11,000 (normal ₡22,000) | https://vitalikecr.com/carrito/?add-to-cart=4624
+- NUTREX LIPO6 HARDCORE QUEMADOR DE GRASA | 60 CAPSULAS | ID: 4623 | ₡13,250 (normal ₡26,500) | https://vitalikecr.com/carrito/?add-to-cart=4623
+- NUTREX LIPO6 BLACK ULTRA CONCENTRADO MUJER | 60 CÁPSULAS | ID: 4621 | ₡11,750 (normal ₡23,500) | https://vitalikecr.com/carrito/?add-to-cart=4621
+- NUTREX LIPO6 BLACK INTENSE ULTRA CONCENTRADO | 60 CÁPSULAS | ID: 4618 | ₡13,750 (normal ₡27,500) | https://vitalikecr.com/carrito/?add-to-cart=4618
+- NUTRABIO CLA 800 MG | 90 CÁPSULAS | ID: 4570 | ₡15,800 | https://vitalikecr.com/carrito/?add-to-cart=4570
+- NUTRABIO CAFFPLUS CAFEINA+ TEANINA | 60 CAPS | ID: 4566 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=4566
+
+## CREATINAS
+- COMBO MÁS PODEROSO | TOTAL WAR 30 SERVIDAS + NUTRABIO CREATINA 100 SERV | ID: 26533 | ₡39,650 (normal ₡53,900) | https://vitalikecr.com/carrito/?add-to-cart=26533
+- COMBO MÁS PODEROSO | TOTAL WAR 30 SERVIDAS + NUTRABIO CREATINA 60 SERV | ID: 26532 | ₡34,850 (normal ₡44,300) | https://vitalikecr.com/carrito/?add-to-cart=26532
+- COMBO MÁS PODEROSO | TOTAL WAR 30 SERVIDAS + NUTRABIO CREATINA 30 SERV | ID: 26531 | ₡32,150 (normal ₡38,900) | https://vitalikecr.com/carrito/?add-to-cart=26531
+- COMBO GANADOR | NUTREX PROTEÍNA ISOFIT 5LB + NUTREX CREATINA 30 SERVIDAS | ID: 26528 | ₡56,500 (normal ₡67,000) | https://vitalikecr.com/carrito/?add-to-cart=26528
+- COMBO EXPLOSIVO | NUTREX PROTEÍNA WHEY 5LB + NUTREX CREATINA 30 SERVIDAS GRATIS | ID: 26522 | ₡44,500 (normal ₡55,000) | https://vitalikecr.com/carrito/?add-to-cart=26522
+- RAW CREATINA CON SABOR | 30 SERVIDAS | ID: 23731 | ₡12,900 | https://vitalikecr.com/carrito/?add-to-cart=23731
+- GHOST BASICS CREATINA | 50 SERVIDAS | ID: 22762 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=22762
+- NUTREX CREATINA PARA MUJER | 30 SERVIDAS | ID: 22095 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=22095
+- MUSCLESPORT CREATINA + HIDRATACIÓN | 60 SERVIDAS | ID: 22057 | ₡21,800 | https://vitalikecr.com/carrito/?add-to-cart=22057
+- NUTRABIO CREATINA MONOHIDRATADA | 150 CÁPSULAS | ID: 22029 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=22029
+- NUTREX CREATINA CON SABOR | 60 SERVIDAS | ID: 20784 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=20784
+- ABE CREATINA | 60 SERVIDAS | ID: 9615 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=9615
+- REDCON1 TANGO CREATINA | 30 SERVIDAS | ID: 6459 | ₡24,000 | https://vitalikecr.com/carrito/?add-to-cart=6459
+- NUTRABIO CREATINA SIN SABOR | 30-60-100 SERVIDAS | ID: 6273 | ₡13,500 | https://vitalikecr.com/carrito/?add-to-cart=6273
+- NUTRABIO CGT MAX  | 40 SERVIDAS | ID: 6266 | ₡26,900 | https://vitalikecr.com/carrito/?add-to-cart=6266
+- MUSCLETECH CELL-TECH CREACTOR | 120 SERVIDAS | ID: 5065 | ₡26,900 | https://vitalikecr.com/carrito/?add-to-cart=5065
+- GHOST SIZE-V3 | 30 SERVIDAS | ID: 4994 | ₡25,500 | https://vitalikecr.com/carrito/?add-to-cart=4994
+- REDCON1 CREATINA MONOHIDRATADA | 60 SERVIDAS | ID: 4632 | ₡17,900 | https://vitalikecr.com/carrito/?add-to-cart=4632
+- MUSCLETECH CREATINA 100% PLATINUM | 80-90 SERVIDAS | ID: 4199 | ₡23,000 | https://vitalikecr.com/carrito/?add-to-cart=4199
+- LANDERFIT CREATINA SIN SABOR 3 G | 100 SERVIDAS | ID: 4124 | ₡18,000 | https://vitalikecr.com/carrito/?add-to-cart=4124
+
+## PROMOCIONES
+- PRODUCTOS ESTRELLA | ID: 26530 | ₡ | https://vitalikecr.com/carrito/?add-to-cart=26530
+
+## BEBIDAS ENERGÉTICAS
+- BLOOM SPARKLING ENERGY DRINK | ID: 23627 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=23627
+- USN BEBIDA ENERGÉTICA QHUSH | 500 ML | ID: 6654 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=6654
+- RYSE FULL ENERGY BEBIDA ENERGÉTICA | ID: 6490 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=6490
+
+## PROTEÍNAS
+- NUTRABIO CASEINA | 2 LBS | ID: 23614 | ₡33,900 | https://vitalikecr.com/carrito/?add-to-cart=23614
+
+## GOMITAS
+- THE GUMMIES SHILAJIT CON VITAMINA C | 60 GOMITAS | ID: 22200 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=22200
+- THE GUMMIES OMEGA 3 | 60 GOMITAS | ID: 21794 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=21794
+- THE GUMMIES VINAGRE DE MANZANA | 60 GOMITAS | ID: 4672 | ₡8,000 (normal ₡11,900) | https://vitalikecr.com/carrito/?add-to-cart=4672
+- THE GUMMIES MULTIVITAMINICO MUJER | 60 GOMITAS | ID: 4671 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4671
+- THE GUMMIES MULTIVITAMINICO HOMBRE | 60 GOMITAS | ID: 4670 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4670
+- THE GUMMIES MELATONINA CON MAGNESIO | 60 GOMITAS | ID: 4669 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4669
+- THE GUMMIES CURCUMA Y JENGIBRE | 60 GOMITAS | ID: 4668 | ₡8,000 (normal ₡11,900) | https://vitalikecr.com/carrito/?add-to-cart=4668
+- THE GUMMIES BIOTINA | 60 GOMITAS | ID: 4666 | ₡8,000 (normal ₡11,900) | https://vitalikecr.com/carrito/?add-to-cart=4666
+
+## GLUTAMINAS
+- NUTREX GLUTAMINA DRIVE | 60-200 SERVIDAS | ID: 22177 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=22177
+- NUTRABIO GLUTAMINA SIN SABOR | 100 SERVIDAS | ID: 4578 | ₡22,900 | https://vitalikecr.com/carrito/?add-to-cart=4578
+- LANDERFIT GLUTAMINA SIN SABOR | 60 SERVIDAS | ID: 4125 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=4125
+
+## SUPLEMENTOS
+- NUTRABIO MULTI COLAGENO SIN SABOR | 45 SERVIDAS | ID: 21695 | ₡25,500 | https://vitalikecr.com/carrito/?add-to-cart=21695
+- USN MULTIVITAMINICO | 60 SERVIDAS | ID: 20907 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=20907
+- UNIVERSAL ANIMAL PAK | 44 PACKS | ID: 11597 | ₡34,000 | https://vitalikecr.com/carrito/?add-to-cart=11597
+- DYMATIZE ISO 100 | 1.3LBS | ID: 11530 | ₡31,900 | https://vitalikecr.com/carrito/?add-to-cart=11530
+- EVL OMEGA 3 FISH OIL - 120 CÁPSULAS | ID: 10176 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=10176
+- LANDERFIT PROTEINA ISO DEFINITION | 5 LBS | ID: 9606 | ₡49,500 | https://vitalikecr.com/carrito/?add-to-cart=9606
+- NUTREX CREATINA SIN SABOR | 30-60-100-200-400 SERVIDAS | ID: 6315 | ₡10,500 | https://vitalikecr.com/carrito/?add-to-cart=6315
+- NUTRABIO CAFEINA | ID: 9685 | ₡14,900 | https://vitalikecr.com/carrito/?add-to-cart=9685
+- NUTREX PROTEÍNA ISOLADA ISOFIT | 30-70 SERVIDAS | ID: 6352 | ₡33,900 | https://vitalikecr.com/carrito/?add-to-cart=6352
+- NUTREX PROTEINA 100% WHEY | 2LBS-5LBS-10LBS | ID: 6345 | ₡25,000 | https://vitalikecr.com/carrito/?add-to-cart=6345
+- NUTRABIO PROTEÍNA ISOLADA ISO CLEAR | 20 SERVIDAS | ID: 6300 | ₡31,500 | https://vitalikecr.com/carrito/?add-to-cart=6300
+- NUTRABIO OMEGA 3 FISH OIL | 150-400-500 CÁPSULAS | ID: 6284 | ₡13,000 | https://vitalikecr.com/carrito/?add-to-cart=6284
+- MUSCLETECH NITRO TECH 100% WHEY GOLD / 2LBS-5LBS | ID: 5075 | ₡28,500 | https://vitalikecr.com/carrito/?add-to-cart=5075
+- GHOST PROTEINA WHEY | 26 SERVIDAS | ID: 4983 | ₡33,500 | https://vitalikecr.com/carrito/?add-to-cart=4983
+- RAW CREATINA | 50-100-250 SERVIDAS | ID: 4628 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=4628
+- NUTREX NIOX EXTREM PUMP OXIDO NITRICO | 90 CAPSULAS | ID: 4627 | ₡21,900 | https://vitalikecr.com/carrito/?add-to-cart=4627
+- NUTREX CAFEINA 200 | 60 CAPSULAS | ID: 4616 | ₡9,200 | https://vitalikecr.com/carrito/?add-to-cart=4616
+- NUTRABIO ZMA | 180 CAPSULAS | ID: 4596 | ₡27,900 | https://vitalikecr.com/carrito/?add-to-cart=4596
+- NUTRABIO ZINC CHELATO | 120 CAPSULAS | ID: 4595 | ₡10,000 | https://vitalikecr.com/carrito/?add-to-cart=4595
+- NUTRABIO VITAMINA C | 120 CAPSULAS | ID: 4592 | ₡14,200 | https://vitalikecr.com/carrito/?add-to-cart=4592
+- NUTRABIO MULTISPORT PARA HOMBRE | 120 CÁPSULAS | ID: 4588 | ₡23,500 | https://vitalikecr.com/carrito/?add-to-cart=4588
+- NUTRABIO MULTISPORT MUJER | 120 CAPSULAS | ID: 4587 | ₡23,500 | https://vitalikecr.com/carrito/?add-to-cart=4587
+- NUTRABIO MAGNESIO COMPLEX | 120 CAPSULAS | ID: 4585 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=4585
+- NUTRABIO L-THEANINA | 90 CAPSULAS | ID: 4583 | ₡18,500 | https://vitalikecr.com/carrito/?add-to-cart=4583
+- NUTRABIO L-CITRULINA EN POLVO | 75 SERVIDAS | ID: 4582 | ₡18,000 | https://vitalikecr.com/carrito/?add-to-cart=4582
+- NUTRABIO GLUCOSAMINA CONDROINTIN & MSM | 90 CÁPSULAS | ID: 4577 | ₡17,300 | https://vitalikecr.com/carrito/?add-to-cart=4577
+- NUTRABIO GABA ACIDO GAMA AMINOBUTIRICO | 90 CAPSULAS | ID: 4576 | ₡16,500 | https://vitalikecr.com/carrito/?add-to-cart=4576
+- NUTRABIO COQ10 | 60 CAPSULAS | ID: 4574 | ₡21,900 | https://vitalikecr.com/carrito/?add-to-cart=4574
+- NUTRABIO COMPLEJO DE POTASIO | 120 CAPSULAS | ID: 4573 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4573
+- NUTRABIO BIOTINA | 90 CAPSULAS | ID: 4564 | ₡12,900 | https://vitalikecr.com/carrito/?add-to-cart=4564
+- NUTRABIO BETA-ALANINE EN POLVO | 180 SERVIDAS | ID: 4563 | ₡27,300 | https://vitalikecr.com/carrito/?add-to-cart=4563
+- NUTRABIO ASHWAGANDHA | 90 CAPSULAS | ID: 4560 | ₡26,900 | https://vitalikecr.com/carrito/?add-to-cart=4560
+- NUTRABIO ACIDO ALPHA LIPOICO | 90 CAPSULAS | ID: 4558 | ₡18,900 | https://vitalikecr.com/carrito/?add-to-cart=4558
+- LANDERFIT MULTIVITAMÍNICO MULTIPHASE | 30 SERVIDAS | ID: 4130 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=4130
+- EVL PROBIOTICO | 30 SERVIDAS | ID: 4117 | ₡19,000 | https://vitalikecr.com/carrito/?add-to-cart=4117
+- EVL ARGININA HCL | 100 CAPSULAS | ID: 4116 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=4116
+
+## IMPLEMENTOS DE ENTRENAMIENTO
+- NORULES CHALECO DE PESO | SENCILLO | ID: 20610 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=20610
+- NORULES PESA DE TOBILLO | ID: 20588 | ₡10,000 | https://vitalikecr.com/carrito/?add-to-cart=20588
+- NORULES PESA RUSA | ID: 20561 | ₡8,000 | https://vitalikecr.com/carrito/?add-to-cart=20561
+- STAY ROLLER STICK | ID: 6574 | ₡7,500 | https://vitalikecr.com/carrito/?add-to-cart=6574
+
+## NUEVA COLECCIÓN NO RULES
+- NORULES ENTERIZO BAILARINA | ID: 20467 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=20467
+- NORULES ENTERIZO LARGO | ID: 20461 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=20461
+- NORULES ENTERIZO CORTO SESGO BLANCO | ID: 20457 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=20457
+- NORULES ENTERIZO CORTO | ID: 20454 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=20454
+- NORULES CAMISETA DAMA ESQUELETO LARGO | CARTA | ID: 20439 | ₡8,000 | https://vitalikecr.com/carrito/?add-to-cart=20439
+- NORULES RUNNING CORTE LASER | ID: 20433 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=20433
+- NORULES TENNIS SKIRT | ID: 20406 | ₡10,000 | https://vitalikecr.com/carrito/?add-to-cart=20406
+- NORULES CAMISETA DAMA ESQUELETO LARGO | ESTAMPILLA | ID: 20401 | ₡8,000 | https://vitalikecr.com/carrito/?add-to-cart=20401
+- NORULES CHAQUETA CORTAVIENTOS | ID: 20364 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=20364
+- NORULES SHORT PRETINA ALTA | ID: 20349 | ₡8,000 | https://vitalikecr.com/carrito/?add-to-cart=20349
+- NORULES SHORT PERFORMANCE | ID: 20323 | ₡8,000 | https://vitalikecr.com/carrito/?add-to-cart=20323
+- NORULES PANTALONETA AJUSTADA GRIS CLARO | ID: 10898 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=10898
+- NORULES VISERA | ID: 10834 | ₡9,000 | https://vitalikecr.com/carrito/?add-to-cart=10834
+
+## PROTEÍNA HIDROLIZADA | ISOLADA
+- DYMATIZE ISO 100 | 3LBS | ID: 11526 | ₡47,500 | https://vitalikecr.com/carrito/?add-to-cart=11526
+- DYMATIZE ISO 100 | 5LBS | ID: 11471 | ₡69,900 | https://vitalikecr.com/carrito/?add-to-cart=11471
+- EVL PROTEÍNA 100% ISOLADA | 1 LB | ID: 10211 | ₡17,900 | https://vitalikecr.com/carrito/?add-to-cart=10211
+- RAW CBUM PROTEINA ITHOLATE | 2 LBS - 5 LBS | ID: 6370 | ₡35,900 | https://vitalikecr.com/carrito/?add-to-cart=6370
+
+## PROPULSORES DE TESTOSTERONA
+- NUTRABIO TRIBULUS TERRESTRIS | 90 CÁPSULAS | ID: 10647 | ₡15,100 | https://vitalikecr.com/carrito/?add-to-cart=10647
+
+## PROTEÍNA WHEY
+- EVL PROTEÍNA 100% WHEY | 1 LB | ID: 10210 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=10210
+- EVL PROTEÍNA STACKED | 58 SERVIDAS | ID: 10199 | ₡39,900 | https://vitalikecr.com/carrito/?add-to-cart=10199
+- NUTRABIO PROTEÍNA CLASSIC WHEY | 67 SERVIDAS | ID: 6287 | ₡49,900 | https://vitalikecr.com/carrito/?add-to-cart=6287
+- LANDERFIT PROTEINA WOMENS | 2 LBS | ID: 9611 | ₡31,900 | https://vitalikecr.com/carrito/?add-to-cart=9611
+- TERROR LABZ PROTEÍNA WHEY | 64 SERVIDAS | ID: 6627 | ₡45,900 | https://vitalikecr.com/carrito/?add-to-cart=6627
+- MUSCLETECH NITRO TECH / 2 LBS -4 LBS | ID: 5071 | ₡28,500 | https://vitalikecr.com/carrito/?add-to-cart=5071
+
+## PRE - ENTRENOS
+- EVL ENGN SHRED PRE- ENTRENO | 30 SERVIDAS | ID: 10166 | ₡19,900 | https://vitalikecr.com/carrito/?add-to-cart=10166
+- LANDERFIT PRE-ENTRENO MUSCLE PUMP |  30 SERVIDAS | ID: 5002 | ₡25,400 | https://vitalikecr.com/carrito/?add-to-cart=5002
+- REDCON1 TOTAL WAR PRE-ENTRENO | 30 SERVIDAS | ID: 6466 | ₡25,400 | https://vitalikecr.com/carrito/?add-to-cart=6466
+- RAW CBUM THAVAGE EN POLVO | 40/20 SERVIDAS | ID: 6373 | ₡30,900 | https://vitalikecr.com/carrito/?add-to-cart=6373
+- GHOST PRE ENTRENO LEGEND | 30 SERVIDAS | ID: 4973 | ₡26,100 | https://vitalikecr.com/carrito/?add-to-cart=4973
+
+## MUJER
+- TOP CRUZADO RIB AZUL | ID: 6634 | ₡16,400 | https://vitalikecr.com/carrito/?add-to-cart=6634
+- TOP CRUZADO RIB AMARILLO | ID: 6630 | ₡16,400 | https://vitalikecr.com/carrito/?add-to-cart=6630
+- NORULES TOP RUNNING | NEGRO | ID: 6139 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=6139
+- NORULES TOP RUNNING | LILA | ID: 6131 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=6131
+- NORULES SHORT CON LYCRA | HAPPY HILLS | ID: 6085 | ₡18,700 | https://vitalikecr.com/carrito/?add-to-cart=6085
+- NORULES LYCRA PRETINA ALTA RAINBOW | ID: 5636 | ₡15,100 | https://vitalikecr.com/carrito/?add-to-cart=5636
+- NORULES LYCRA PRETINA ALTA EXTASIS | ID: 5628 | ₡15,100 | https://vitalikecr.com/carrito/?add-to-cart=5628
+- NORULES LYCRA PRETINA ALTA | VERDE MENTA | ID: 5624 | ₡15,100 | https://vitalikecr.com/carrito/?add-to-cart=5624
+- NORULES LYCRA PRETINA ALTA | VERDE ESMERALDA | ID: 5620 | ₡15,100 | https://vitalikecr.com/carrito/?add-to-cart=5620
+- NORULES LYCRA PRETINA ALTA | FOSIL MONKEY | ID: 5598 | ₡15,100 | https://vitalikecr.com/carrito/?add-to-cart=5598
+- NORULES CROP TOP TELA FRIA | GRIS | ID: 5508 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5508
+- NORULES CROP TOP SIN COSTURA | ROPE CLIMB | ID: 5491 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5491
+- NORULES CROP TOP SIN COSTURA | LETRAS | ID: 5479 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5479
+- NORULES CROP TOP SIN COSTURA | AS MANY REPETITIONS | ID: 5471 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5471
+- NORULES CROP TOP SIN COSTURA |  PURGE YOUR PAIN | ID: 5463 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5463
+- NORULES BUDDY SHORT VERDE OLIVA | ID: 5137 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5137
+- NORULES BUDDY SHORT RIB AZUL | ID: 5133 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5133
+- NORULES BUDDY SHORT PATCHWORK | ID: 5129 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5129
+- NORULES BUDDY SHORT HAPPY HILLS | ID: 5117 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5117
+- NORULES BUDDY SHORT CORAL | ID: 5113 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5113
+- NORULES BUDDY SHORT BLACK TRIP | ID: 5109 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5109
+- NORULES BUDDY SHORT FUNGI | ID: 5105 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5105
+- NORULES BUDDY SHORT  CATRINA *NUEVA COLECCION* | ID: 5101 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=5101
+- NO RULES BIKER VERDE ESMERALDA | ID: 5089 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5089
+- NO RULES BIKER NEGRO | ID: 5085 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5085
+- NORULES TOP CRUZADO | NEGRO | ID: 4406 | ₡16,400 | https://vitalikecr.com/carrito/?add-to-cart=4406
+- NORULES BIKER SIN COSTURA | TERRACOTA | ID: 4243 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=4243
+- NORULES BIKER CON COSTURA | TERRACOTA | ID: 4237 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=4237
+- NORULES BIKER CON COSTURA | CAOBA | ID: 4220 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=4220
+
+## LIQUIDACIÓN
+- REDCON1 PROTEÍNA WHEY RATION | 65 SERVIDAS | ID: 6454 | ₡41,310 | https://vitalikecr.com/carrito/?add-to-cart=6454
+
+## PROTEÍNA DE CARNE
+- REDCON1 PROTEÍNA DE BASE ANIMAL MRE LITE | 30 SERVIDAS | ID: 6443 | ₡33,500 | https://vitalikecr.com/carrito/?add-to-cart=6443
+
+## HOMBRE
+- PANTALONETA BE VERDE ESMERALDA | ID: 6363 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=6363
+- NORULES PANTALONETA RUNNING BEIGE NEON | ID: 5910 | ₡18,000 | https://vitalikecr.com/carrito/?add-to-cart=5910
+- NORULES PANTALONETA CROSSFIT 3.0 FUNGI | ID: 5839 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5839
+- NORULES PANTALONETA CROSSFIT 3.0 BABY BLUE | ID: 5809 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5809
+- NORULES PANTALONETA CROSSFIT 3.0 | NIGTH DESSERT | ID: 5799 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5799
+- NORULES PANTALONETA CROSSFIT 3.0 | DESSERT | ID: 5774 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5774
+- NORULES PANTALONETA CROSSFIT 3.0 | CACTUS | ID: 5769 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5769
+- NORULES PANTALONETA CROSSFIT 3.0 | BLACK LEMON | ID: 5760 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5760
+- NORULES PANTALONETA BE VERDE AGUA | ID: 5744 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5744
+- NORULES PANTALONETA BE AZUL OSCURO | ID: 5737 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=5737
+- NORULES PANTALONETA AJUSTADA BLANCA | ID: 5685 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=5685
+- NO RULES MEDIAS | ID: 5093 | ₡ | https://vitalikecr.com/carrito/?add-to-cart=5093
+
+## NO RULES
+- NORULES SOMBRERO BUCKET | ID: 6108 | ₡10,500 | https://vitalikecr.com/carrito/?add-to-cart=6108
+- NORULES CANGURO SENCILLO | ID: 5373 | ₡9,900 | https://vitalikecr.com/carrito/?add-to-cart=5373
+
+## BLUSAS
+- NORULES CROP TOP SIN COSTURA | THE PROCESS | ID: 5495 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5495
+- NORULES CROP TOP SIN COSTURA | RAINBOW | ID: 5487 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5487
+- NORULES CROP TOP SIN COSTURA | BLANCO | ID: 5475 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5475
+
+## CAMISETAS
+- NORULES CAMISETA TELA FRIA BE NEGRA | ID: 5359 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5359
+- NORULES CAMISETA TELA FRIA BE DURAZNO | ID: 5357 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5357
+- NORULES CAMISETA TELA FRIA BE BLANCA | ID: 5354 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5354
+- NORULES CAMISETA TELA FRIA BE AMARILLA | ID: 5352 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5352
+- NORULES CAMISETA TELA FRIA | PINK FLAG | ID: 5347 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5347
+- NORULES CAMISETA TELA FRIA | OSO | ID: 5342 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5342
+- NORULES CAMISETA TELA FRIA | NORULES TEAM | ID: 5339 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5339
+- NORULES CAMISETA TELA FRIA | MORA GYM WEIGHTS | ID: 5334 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5334
+- NORULES CAMISETA TELA FRIA | GRIS LOGO 3D | ID: 5326 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5326
+- NORULES CAMISETA TELA FRIA | DUST TO GLORY NEGRA | ID: 5321 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5321
+- NORULES CAMISETA TELA FRIA | DO CROSSFIT BE HAPPY | ID: 5316 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5316
+- NORULES CAMISETA TELA FRIA | DISTORSION | ID: 5312 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5312
+- NORULES CAMISETA TELA FRIA |  THE ONLY WEIGHT LIFT | ID: 5307 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5307
+- NORULES CAMISETA TACTO FRIO NO RULES BLACK | ID: 5302 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5302
+- NORULES CAMISETA TACTO FRIO BASICA BE BLANCA | ID: 5284 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5284
+- NORULES CAMISETA ESQUELETO SIN COSTURA | WANTED | ID: 5279 | ₡18,800 | https://vitalikecr.com/carrito/?add-to-cart=5279
+- NORULES CAMISETA ESQUELETO SIN COSTURA | TIRE FLIP | ID: 5271 | ₡18,800 | https://vitalikecr.com/carrito/?add-to-cart=5271
+- NORULES CAMISETA ESQUELETO SIN COSTURA | THE PROCESS | ID: 5266 | ₡18,800 | https://vitalikecr.com/carrito/?add-to-cart=5266
+- NORULES CAMISETA ESQUELETO SIN COSTURA | RAINBOW | ID: 5257 | ₡18,800 | https://vitalikecr.com/carrito/?add-to-cart=5257
+- NORULES CAMISETA ESQUELETO SIN COSTURA | PURGE YOUR PAIN | ID: 5252 | ₡18,800 | https://vitalikecr.com/carrito/?add-to-cart=5252
+- NORULES CAMISETA ESQUELETO SIN COSTURA | LILA | ID: 5240 | ₡18,800 | https://vitalikecr.com/carrito/?add-to-cart=5240
+- NORULES CAMISETA ESQUELETO SIN COSTURA | AHAP | ID: 5229 | ₡18,800 | https://vitalikecr.com/carrito/?add-to-cart=5229
+- NORULES CAMISETA ESQUELETO BASICO NEGRA | ID: 5189 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5189
+- NORULES CAMISETA ESQUELETO BASICO NARANJA | ID: 5184 | ₡12,500 | https://vitalikecr.com/carrito/?add-to-cart=5184
+- NORULES CAMISETA ALGODON | RADIAN MONKEY | ID: 5151 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5151
+- NORULES CAMISETA ALGODON | GUMMY BEAR | ID: 5146 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5146
+- NORULES CAMISETA ALGODON | DOPAMINE | ID: 5141 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5141
+- CAMISETA ALGODÓN NEGRA THIS IS A CHEAT | ID: 4700 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=4700
 
 ## VITAMINAS
-- NUTRABIO VITAMINA D3 K2 | ID: 4594 | ₡21,900 | https://vitalikecr.com/producto/nutrabio-vitamina-d3-k2/
+- NUTRABIO VITAMINA D3 K2 | ID: 4594 | ₡21,900 | https://vitalikecr.com/carrito/?add-to-cart=4594
+
+## ROPA DEPORTIVA
+- NORULES SHORT CON PUSH | SALMON | ID: 4397 | ₡13,000 | https://vitalikecr.com/carrito/?add-to-cart=4397
+
+## ESTÉTICA
+- MUSCLE UP HAIR AWAY | ID: 4198 | ₡12,600 | https://vitalikecr.com/carrito/?add-to-cart=4198
 # INFORMACION OPERATIVA
 Envíos gratis en pedidos mayores a ₡30,000. Entrega el mismo día si pedís antes de las 2pm en el área metropolitana. Fuera del área metro: 1-2 días hábiles. Tenemos 18 sucursales en San José, Alajuela, Heredia, Cartago y más zonas. Cashback del 5% en cada compra. WhatsApp de soporte: 8399-1555. Sitio web: vitalikecr.com
 
