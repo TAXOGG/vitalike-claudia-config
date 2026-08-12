@@ -102,16 +102,23 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 # PRODUCTOS
 
 ## SUPLEMENTOS
-- STEEL FIT HYDRA STEEL DIURETICO | 80 CÁPSULAS | ID: 27375 | ₡16,700 | https://vitalikecr.com/producto/steel-fit-hydra-steel-diuretico-80-capsulas/
+- STEEL FIT CREATINA CREAPURE | 30-100 SERVIDAS | ID: 27382 | ₡13,900 | Opciones: Tamaño: 30 Servidas, 100 Servidas | https://vitalikecr.com/producto/steel-fit-creatina-creapure-30-100-servidas/
 - LANDERFIT FIBRA | NARANJA | 30 SERV | ID: 27372 | ₡16,900 | https://vitalikecr.com/producto/landerfit-fibra-naranja-30-serv/
 - LANDERFIT VITAMINA C | 120 CÁPSULAS | ID: 27362 | ₡10,900 | https://vitalikecr.com/producto/landerfit-vitamina-c-120-capsulas/
+- LANDERFIT COLÁGENO UC II | 30 CÁPSULAS | ID: 27357 | ₡14,900 | https://vitalikecr.com/producto/landerfit-colageno-uc-ii-30-capsulas/
+- LANDERFIT COLÁGENO HIDROLIZADO | 30 SERVIDAS | ID: 27351 | ₡18,900 | Opciones: Sabor: Lima Limón, Naranja | https://vitalikecr.com/producto/landerfit-colageno-hidrolizado-30-servidas/
 - USN MULTIVITAMINICO | 60 SERVIDAS | ID: 20907 | ₡14,000 | https://vitalikecr.com/producto/usn-multivitaminico-60-servidas/
+- NUTREX CREATINA CON SABOR | 60 SERVIDAS | ID: 20784 | ₡15,900 | Opciones: Sabor: Fruit Punch, Strawberry Watermelon | https://vitalikecr.com/producto/nutrex-creatina-con-sabor-60-servidas/
 - UNIVERSAL ANIMAL STAK | 21 PACKS | ID: 11598 | ₡36,900 | https://vitalikecr.com/producto/universal-animal-stak-21-packs/
 - UNIVERSAL ANIMAL PAK | 44 PACKS | ID: 11597 | ₡34,000 | https://vitalikecr.com/producto/universal-animal-pak-44-packs/
 - EVL OMEGA 3 FISH OIL - 120 CÁPSULAS | ID: 10176 | ₡11,900 | https://vitalikecr.com/producto/evl-omega-3-fish-oil-120-capsulas/
 - NUTREX CREATINA SIN SABOR | 30-60-100-200-400 SERVIDAS | ID: 6315 | ₡10,500 - ₡40,500 (varía según Tamaño) | Opciones: Tamaño: 400 Servidas, 30 Servidas, 60 Servidas, 100 Servidas, 200 Servidas | https://vitalikecr.com/producto/nutrex-creatina-sin-sabor-60-200-servidas/
+- NUTRABIO CAFEINA | ID: 9685 | ₡14,900 | https://vitalikecr.com/producto/nutrabio-cafeina/
 - NUTREX MULTIVITAMINICO VITADAPT | 90 CÁPSULAS | ID: 9604 | ₡17,500 | https://vitalikecr.com/producto/nutrex-multivitaminico-vitadapt-90-capsulas/
+- NUTREX PROTEÍNA ISOLADA ISOFIT | 30-70 SERVIDAS | ID: 6352 | ₡33,900 - ₡56,500 (varía según Sabor, Tamaño) | Opciones: Sabor: Banana Foster, Chocolate, Fresa, Galleta, Vainilla | Tamaño: 2 Lbs, 5 Lbs | https://vitalikecr.com/producto/nutrex-proteina-isolada-isofit-30-70-servidas/
+- NUTREX PROTEINA 100% WHEY | 2LBS-5LBS-10LBS | ID: 6345 | ₡25,000 - ₡71,500 (varía según Sabor, Tamaño) | Opciones: Sabor: Chocolate, Galleta, Vainilla | Tamaño: 2 Lbs, 5 Lbs, 10 Lbs | https://vitalikecr.com/producto/nutrex-proteina-100-whey-2lbs-5lbs-10lbs/
 - NUTRABIO OMEGA 3 FISH OIL | 150-400-500 CÁPSULAS | ID: 6284 | ₡13,000 - ₡21,900 (varía según Tamaño) | Opciones: Tamaño: 400 Capsulas, 150 Capsulas, 500 Capsulas | https://vitalikecr.com/producto/nutrabio-omega-3-fish-oil-150-500-capsulas/
+- LANDERFIT AMINO REVOLUTION + ELECTROLITOS | 30 SERVIDAS | ID: 4998 | ₡19,900 | Opciones: Sabor: Coco, Manzana Verde, Ponche De Frutas, Raspberry Lemonada, Uva | https://vitalikecr.com/producto/landerfit-amino-revolution-electrolitos-30-servidas/
 - THE GUMMIES MELATONINA CON MAGNESIO | 60 GOMITAS | ID: 4669 | ₡11,900 | https://vitalikecr.com/producto/the-gummies-melatonina-con-magnesio-60-gomitas/
 - NUTREX NIOX EXTREM PUMP OXIDO NITRICO | 90 CAPSULAS | ID: 4627 | ₡21,900 | https://vitalikecr.com/producto/nutrex-niox-extrem-pump-oxido-nitrico-90-capsulas/
 - NUTRABIO ZMA | 180 CAPSULAS | ID: 4596 | ₡27,900 | https://vitalikecr.com/producto/nutrabio-zma-180-capsulas/
@@ -130,11 +137,6 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - LANDERFIT MULTIVITAMÍNICO MULTIPHASE | 30 SERVIDAS | ID: 4130 | ₡16,000 | https://vitalikecr.com/producto/landerfit-multivitaminico-multiphase-30-servidas/
 - EVL PROBIOTICO | 30 SERVIDAS | ID: 4117 | ₡19,000 | https://vitalikecr.com/producto/evl-probiotico-30-servidas/
 - EVL ARGININA HCL | 100 CAPSULAS | ID: 4116 | ₡14,000 | https://vitalikecr.com/producto/evl-arginina-hcl-100-capsulas/
-
-## COLAGENOS
-- LANDERFIT COLÁGENO UC II | 30 CÁPSULAS | ID: 27357 | ₡14,900 | https://vitalikecr.com/producto/landerfit-colageno-uc-ii-30-capsulas/
-- USN COLAGENO PEPTIDES | 30 SERVIDAS | ID: 26619 | ₡21,000 | https://vitalikecr.com/producto/usn-colageno-peptides-30-servidas/
-- NUTRABIO MULTI COLAGENO SIN SABOR | 45 SERVIDAS | ID: 21695 | ₡25,500 | https://vitalikecr.com/producto/nutrabio-multi-colageno-sin-sabor-45-servidas/
 
 ## NUEVOS
 - LANDERFIT TRIBULUS TERRESTRIS | 90 CÁPSULAS | ID: 27339 | ₡14,900 | https://vitalikecr.com/producto/landerfit-tribulus-terrestris-90-capsulas/
@@ -163,7 +165,6 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - GHOST BASICS CREATINA | 50 SERVIDAS | ID: 22762 | ₡19,500 | https://vitalikecr.com/producto/ghost-basics-creatina-50-servidas/
 - NUTREX CREATINA PARA MUJER | 30 SERVIDAS | ID: 22095 | ₡16,900 | Opciones: Sabor: Peach Mango, Pink Lemonade | https://vitalikecr.com/producto/nutrex-creatina-para-mujer-60-servidas/
 - MUSCLESPORT CREATINA + HIDRATACIÓN | 60 SERVIDAS | ID: 22057 | ₡21,800 | Opciones: Sabor: Lemon IItalian Ice, Melocotón, Miami Sunrise, Passion Fruit, Pineapple Cooler, Sour Apple Pucker, Strawberry Melons | https://vitalikecr.com/producto/musclesport-creatina-hidratacion-60-servidas/
-- NUTREX CREATINA CON SABOR | 60 SERVIDAS | ID: 20784 | ₡15,900 | Opciones: Sabor: Fruit Punch, Strawberry Watermelon | https://vitalikecr.com/producto/nutrex-creatina-con-sabor-60-servidas/
 - ABE CREATINA | 60 SERVIDAS | ID: 9615 | ₡17,000 | https://vitalikecr.com/producto/abe-creatina-60-servidas/
 - REDCON1 TANGO CREATINA | 30 SERVIDAS | ID: 6459 | ₡24,000 | Opciones: Sabor: Fresa - Kiwi, Uva | https://vitalikecr.com/producto/redcon1-tango-creatina-30-servidas/
 - NUTRABIO CREATINA SIN SABOR | 30-60-100 SERVIDAS | ID: 6273 | ₡13,500 - ₡28,500 (varía según Tamaño) | Opciones: Tamaño: 30 Servidas, 60 Servidas, 100 Servidas | https://vitalikecr.com/producto/nutrabio-creatina-sin-sabor-30-60-100-servidas/
@@ -174,7 +175,7 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - REDCON1 CREATINA MONOHIDRATADA | 60 SERVIDAS | ID: 4632 | ₡17,900 | https://vitalikecr.com/producto/redcon1-creatina-monohidratada-60-servidas/
 - RAW CREATINA | 50-100-250 SERVIDAS | ID: 4628 | ₡17,000 - ₡33,900 (varía según Tamaño) | Opciones: Tamaño: 250 Servidas, 50 Servidas, 100 Servidas | https://vitalikecr.com/producto/raw-creatina-100-servidas/
 - MUSCLETECH CREATINA 100% PLATINUM | 80-90 SERVIDAS | ID: 4199 | ₡23,000 | Opciones: Tamaño: 80 Servidas, 90 Servidas | https://vitalikecr.com/producto/muscletech-creatina-100-platinum-80-servidas/
-- LANDERFIT CREATINA SIN SABOR 3 G | 100 SERVIDAS | ID: 4124 | ₡18,000 | https://vitalikecr.com/producto/landerfit-creatina-sin-sabor-3-g-100-servidas/
+- LANDERFIT CREATINA SIN SABOR 3 G | 100 SERVIDAS | ID: 4124 | ₡14,900 (normal ₡18,000) | https://vitalikecr.com/producto/landerfit-creatina-sin-sabor-3-g-100-servidas/
 
 ## HOMBRE
 - PROMO | 50% ROPA DEPORTIVA | ID: 27215 | ₡ | https://vitalikecr.com/producto/promo-50-ropa-deportiva/
@@ -201,7 +202,6 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - NUTREX EAA + HIDRATACION | 30 SERVIDAS | ID: 6318 | ₡18,500 | Opciones: Sabor: Blueberry Lemonade, Fresa - Sandia, Manzana Pera, Maui Twist, Naranja, Ponche De Frutas | https://vitalikecr.com/producto/nutrex-eaa-hidratacion-30-servidas/
 - NUTRABIO INTRABLAST AMINO + EAA + BCAA | 30 SERVIDAS | ID: 6277 | ₡29,900 | Opciones: Sabor: Grape Berry, Maracuya, Naranja Mango, New York Punch, Pitaya, Sweet Tea | https://vitalikecr.com/producto/nutrabio-intrablast-amino-eaa-bcaa-30-servidas/
 - NUTRABIO AMINO KICK | 30 SERVIDAS | ID: 6244 | ₡19,000 | Opciones: Sabor: Baja Burst, Blueraspberry, Georgia Peach Tea, Grape Berry, Naranja Mango, Passion Fruit, Raspberry Limonada | https://vitalikecr.com/producto/nutrabio-amino-kick-30-servidas/
-- LANDERFIT AMINO REVOLUTION + ELECTROLITOS | 30 SERVIDAS | ID: 4998 | ₡19,900 | Opciones: Sabor: Coco, Manzana Verde, Ponche De Frutas, Raspberry Lemonada, Uva | https://vitalikecr.com/producto/landerfit-amino-revolution-electrolitos-30-servidas/
 - EVL BCAA ENERGY | 30-65 SERVIDAS | ID: 4876 | ₡17,500 - ₡32,500 (varía según Sabor, Tamaño) | Opciones: Sabor: Blue Razz, Cherry Lemonade, Fruit Punch, Furious Grape, Green Apple, Orange Blast, Pink Lemonade, Pink Starblast, Rocket Pop, Watermelon | Tamaño: 30 Servidas, 65 Servidas | https://vitalikecr.com/producto/evl-bcaa-energy-30-65-servidas/
 - NUTRABIO LEUCINA EN POLVO | 500 G | ID: 4584 | ₡26,000 | https://vitalikecr.com/producto/nutrabio-leucina-en-polvo-500-g/
 - NUTRABIO L-CITRULINA EN POLVO | 75 SERVIDAS | ID: 4582 | ₡18,000 | https://vitalikecr.com/producto/nutrabio-l-citrulina-en-polvo-75-servidas/
@@ -265,13 +265,16 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - NUTREX L-CARNITINA 3000 | 31 SERVIDAS | ID: 6328 | ₡16,000 | Opciones: Sabor: Berry Blast, Cherry Lemonade, Manzana Verde, Naranja Mango, Passionfruit Guava, Strawberry Watermelon | Tamaño: 16 Servidas, 31 Servidas | https://vitalikecr.com/producto/nutrex-l-carnitina-3000-31-servidas/
 - GHOST BURN | 40 SERVIDAS | ID: 4964 | ₡34,900 | Opciones: Sabor: Guava Berry, Kiwi Strawberry | https://vitalikecr.com/producto/ghost-burn-40-servidas/
 
+## COLAGENOS
+- USN COLAGENO PEPTIDES | 30 SERVIDAS | ID: 26619 | ₡21,000 | https://vitalikecr.com/producto/usn-colageno-peptides-30-servidas/
+- NUTRABIO MULTI COLAGENO SIN SABOR | 45 SERVIDAS | ID: 21695 | ₡25,500 | https://vitalikecr.com/producto/nutrabio-multi-colageno-sin-sabor-45-servidas/
+
 ## PROTEÍNA WHEY
 - MUSCLESPORT PROTEINA LEAN WHEY | 1LBS-2LBS | ID: 23620 | ₡20,000 | Opciones: Sabor: Coconut Caramel, Cookies &amp; Cream | Tamaño: 1 Lbs, 2 Lbs | https://vitalikecr.com/producto/musclesport-proteina-lean-whey-1lbs-2lbs/
 - EVL PROTEÍNA 100% WHEY | 1 LB | ID: 10210 | ₡15,900 | https://vitalikecr.com/producto/evl-proteina-100-whey-1-lb/
 - NUTRABIO PROTEÍNA CLASSIC WHEY | 67 SERVIDAS | ID: 6287 | ₡49,900 | Opciones: Sabor: Banana Cream Pie, Chocolate, Chocolate Mantequilla De Maní, Deleite De Pistacho, Fresa, Galleta, Helado De Naranja, Vainilla | https://vitalikecr.com/producto/nutrabio-proteina-classic-whey-67-servidas/
 - LANDERFIT PROTEINA WOMENS | 2 LBS | ID: 9611 | ₡31,900 | Opciones: Sabor: Chocolate Brownie, Pineapple Coconut, Strawberry Cheescake | https://vitalikecr.com/producto/landerfit-proteina-womens-2-lbs/
 - TERROR LABZ PROTEÍNA WHEY | 64 SERVIDAS | ID: 6627 | ₡45,900 | Opciones: Sabor: Chocolate, Vainilla | https://vitalikecr.com/producto/terror-labz-proteina-whey-64-servidas/
-- NUTREX PROTEINA 100% WHEY | 2LBS-5LBS-10LBS | ID: 6345 | ₡25,000 - ₡71,500 (varía según Sabor, Tamaño) | Opciones: Sabor: Chocolate, Galleta, Vainilla | Tamaño: 2 Lbs, 5 Lbs, 10 Lbs | https://vitalikecr.com/producto/nutrex-proteina-100-whey-2lbs-5lbs-10lbs/
 - GHOST PROTEINA WHEY | 26 SERVIDAS | ID: 4983 | ₡33,500 | Opciones: Sabor: Cereal Milk, Chocolate Chip Cookie, Cinnabon, Fruity Cereal Milk, Marshmallow Cereal Milk, Milk Chocolate, Peanut Butter Cereal Milk | https://vitalikecr.com/producto/ghost-proteina-whey-26-servidas/
 
 ## PROTEÍNAS
@@ -319,7 +322,6 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - LANDERFIT PROTEINA ISO DEFINITION | 5 LBS | ID: 9606 | ₡49,500 | Opciones: Sabor: Banana, Birthday cake rainbow, Caramel, Strawberry | https://vitalikecr.com/producto/landerfit-proteina-iso-definition-5-lbs/
 - EVL PROTEÍNA 100% ISOLADA | 1 LB | ID: 10211 | ₡17,900 | https://vitalikecr.com/producto/evl-proteina-100-isolada-1-lb/
 - RAW CBUM PROTEINA ITHOLATE | 2 LBS - 5 LBS | ID: 6370 | ₡35,900 | Opciones: Sabor: Birthday Cake, Chocolate, Cinnamon Crunch, Maple Waffle, Mint Chip Ice Cream, Vainilla Oatmeal, Vainilla Oatmeal Cookies | Tamaño: 2 Lbs, 5 Lbs | https://vitalikecr.com/producto/raw-cbum-proteina-itholate-2-lbs/
-- NUTREX PROTEÍNA ISOLADA ISOFIT | 30-70 SERVIDAS | ID: 6352 | ₡33,900 - ₡56,500 (varía según Sabor, Tamaño) | Opciones: Sabor: Banana Foster, Chocolate, Fresa, Galleta, Vainilla | Tamaño: 2 Lbs, 5 Lbs | https://vitalikecr.com/producto/nutrex-proteina-isolada-isofit-30-70-servidas/
 
 ## PROPULSORES DE TESTOSTERONA
 - NUTRABIO TRIBULUS TERRESTRIS | 90 CÁPSULAS | ID: 10647 | ₡15,100 | https://vitalikecr.com/producto/nutrabio-tribulus-terrestris-90-capsulas/
@@ -429,7 +431,7 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 ## ESTÉTICA
 - MUSCLE UP HAIR AWAY | ID: 4198 | ₡12,600 | https://vitalikecr.com/producto/muscle-up-hair-away/
 # INFORMACION OPERATIVA
-Envíos gratis en pedidos mayores a ₡30,000. Entrega el mismo día si pedís antes de las 2pm en el área metropolitana. Fuera del área metro: 1-2 días hábiles. Tenemos 20 sucursales en San José, Alajuela, Heredia, Cartago y más zonas. Cashback del 5% en cada compra. WhatsApp de soporte: 8399-1555. Sitio web: vitalikecr.com
+Envíos gratis en pedidos mayores a ₡30,000. Entrega el mismo día si pedís antes de las 2pm en el área metropolitana. Fuera del área metro: 1-2 días hábiles. Tenemos 20 sucursales en San José, Alajuela, Heredia, Cartago y más zonas. WhatsApp de soporte: 8399-1555. Sitio web: vitalikecr.com
 
 # SUCURSALES Y HORARIOS
 Si te preguntan por el horario de una tienda física, y NO especificaron cuál sucursal, primero preguntás cuál (por zona o nombre del mall). Una vez que sabés cuál, le das el horario EXACTO de la lista de abajo, tal cual está escrito — nunca inventes ni redondees un horario. Si la sucursal que menciona dice "horario no confirmado en el sistema", se lo decís honestamente así y lo mandás al WhatsApp 8399-1555 para que se lo confirmen — NO adivines un horario parecido al de otra sucursal.
