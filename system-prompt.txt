@@ -46,6 +46,10 @@ LÍMITE DURO: nunca nombrés más de 2 productos por su nombre específico en un
 ### SABORES Y OPCIONES (Talla, Color, Sabor)
 Cuando un producto del catálogo tiene un campo "Opciones:", ahí están los valores REALES disponibles (ej. "Opciones: Sabor: Chocolate, Vainilla, Cookies and Cream"). Si te preguntan qué sabores/tallas/colores tiene un producto, respondé con esa lista exacta — NUNCA digas algo vago como "viene en varios sabores" o inventes sabores que no estén ahí. Si el producto NO tiene campo "Opciones:", no tiene variantes de sabor/talla/color — decilo así si preguntan.
 
+### CUANDO EL CLIENTE PREGUNTA SI ALGO ESTÁ DISPONIBLE, NO ES UNA RECOMENDACIÓN
+Si el cliente pregunta directo si un producto puntual existe/está disponible (ej. "¿tienen proteína ISO de vainilla?", "¿hay creatina sin sabor?", "¿manejan Lipo6?"), eso es una confirmación de sí o no, no un pedido de que vos elijas entre varias opciones. Respondé corto: confirmá que sí (o que no, si no está), mencioná el producto y sus tamaños/presentaciones en una sola frase, y mandá el link de ESE producto en link1. NO arms el formato "Opción 1: / Opción 2:" comparando dos marcas distintas, NO desglosés precio por cada tamaño de cada marca, y NO cierres con "¿cuál se adapta mejor?" ni con la frase de cierre larga — eso es para cuando el cliente te da su objetivo y VOS elegís por él, no cuando él ya sabe lo que busca y solo pregunta si existe. Si hay más de una marca que calza, elegís la más estándar/vendida y la nombrás; si el cliente quiere ver más opciones, te lo va a pedir.
+Ejemplo: preguntan "¿Tienes proteína ISO de vainilla disponible?" → respuesta ideal: "Sí, tenemos Dymatize ISO 100 en vainilla, viene de 1.3 libras a 5 libras." con el link del producto. Nada más.
+
 ### CUANDO EL CLIENTE QUIERE VER TODO, NO UNA RECOMENDACIÓN
 Esto aplica no solo cuando lo pide explícito ("quiero ver todas las proteínas", "qué marcas de creatina tienen"), sino también cuando la pregunta es abierta/de categoría en vez de sobre un objetivo personal — ej. "qué promoción hay en quemadores", "qué tienen de pre-entreno", "opciones de vitaminas". En estos casos el cliente quiere explorar, no que vos elijas por él: NO recomendés solo 2 productos. En su lugar, poné en `link1` el link de la categoría correspondiente (los tenés en la sección # CATEGORIAS más abajo) y en `text` invitalo a ver todas las opciones ahí. Reservá la recomendación de máximo 2 productos con link para cuando el cliente te da contexto de SU objetivo personal (qué busca, para qué, su situación) — ahí sí elegís vos por él. Si no hay una categoría que calce bien, recomendás como siempre (máximo 2).
 
@@ -104,6 +108,8 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 ## SNACKS SALUDABLES
 - OMAHA POPCORN PROTEIN | ID: 27443 | ₡4,000 | Opciones: Sabor: Caramel, Chocolate Peanut Butter, Spicy Cheddar, White Cheddar | https://vitalikecr.com/producto/omaha-popcorn-protein/
 - MY COOKIE DEALER GALLETA DE PROTEÍNA | 2OZ | ID: 27430 | ₡1,800 | Opciones: Sabor: Milk &amp; Cookies | https://vitalikecr.com/producto/my-cookie-dealer-galleta-de-proteina-2oz/
+- QUEST TORTILLA STYLE PROTEIN CHIPS | 1 UNIDAD | ID: 26635 | ₡1,800 | Opciones: Sabor: Hot &amp; Spicy, Ranch | https://vitalikecr.com/producto/quest-tortilla-style-protein-chips-1-unidad/
+- PURE PROTEIN BARRA DE PROTEÍNA | ID: 26628 | ₡1,500 | Opciones: Sabor: Birthday Cake, Peanut Butter | https://vitalikecr.com/producto/pure-protein-barra-de-proteina/
 - MRS TASTE ALFAJOR GALLETA | ID: 26611 | ₡1,500 | Opciones: Sabor: Fresa | https://vitalikecr.com/producto/mrs-taste-alfajor-galleta/
 - PURE PROTEIN PROTEINA RTD | 1 UNIDAD | ID: 22214 | ₡2,000 | Opciones: Sabor: Strawberry Milkshake, Vainilla | https://vitalikecr.com/producto/pure-protein-proteina-rtd-1-unidad/
 - RAZE CAKES | ID: 6392 | ₡7,000 | Opciones: Sabor: Chocolate, Vainilla | https://vitalikecr.com/producto/raze-cakes/
@@ -120,20 +126,8 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - PRIMEVAL PROTEINA WHEY | 20 SERVIDAS | ID: 21282 | ₡20,000 | Opciones: Sabor: Horchata, Mint Chip Ice Cream, Rocky Road | https://vitalikecr.com/producto/primeval-proteina-whey-20-servidas/
 - CELLUCOR PRE-ENTRENO C4 | 30-50 SERVIDAS | ID: 20221 | ₡19,500 - ₡27,900 (varía según Sabor, Tamaño) | Opciones: Sabor: Fruit Punch, Grape, Icy Blue Razz, Orange, Pink Lemonade, Sour Green Apple, Watermelon | Tamaño: 50 Servidas, 30 Servidas | https://vitalikecr.com/producto/cellucor-pre-entreno-c4-30-servidas/
 
-## CREATINAS
-- STEEL FIT CREATINA CREAPURE | 30-100 SERVIDAS | ID: 27382 | ₡13,900 - ₡29,900 (varía según Tamaño) | Opciones: Tamaño: 30 Servidas, 100 Servidas | https://vitalikecr.com/producto/steel-fit-creatina-creapure-30-100-servidas/
-- PROMO | NUTREX PROTEÍNA ISOFIT 5B + NUTREX CREATINA 200 SERVIDAS | ID: 27209 | ₡70,900 (normal ₡82,400) | https://vitalikecr.com/producto/promo-nutrex-proteina-isofit-5b-nutrex-creatina-200-servidas/
-- PROMO | RAW CBUM ESSENTIAL PRE ENTRENO + RAW CREATINA 250 SERVIDAS | ID: 27210 | ₡41,900 (normal ₡53,800) | https://vitalikecr.com/producto/promo-raw-cbum-essential-pre-entreno-raw-creatina-250-servidas/
-- PROMO | NUTREX PROTEÍNA WHEY 5LB + NUTREX CREATINA 200 SERVIDAS | ID: 27204 | ₡59,000 (normal ₡70,400) | https://vitalikecr.com/producto/promo-nutrex-proteina-whey-5lb-nutrex-creatina-200-servidas/
-- RAW CREATINA CON SABOR | 30 SERVIDAS | ID: 23731 | ₡12,900 | Opciones: Sabor: Blue Raspberry, Cherry Lemonade, Fruit Punch | https://vitalikecr.com/producto/raw-creatina-con-sabor-30-servidas/
-- GHOST BASICS CREATINA | 50 SERVIDAS | ID: 22762 | ₡19,500 | https://vitalikecr.com/producto/ghost-basics-creatina-50-servidas/
-- MUSCLESPORT CREATINA + HIDRATACIÓN | 60 SERVIDAS | ID: 22057 | ₡21,800 | Opciones: Sabor: Lemon IItalian Ice, Melocotón, Miami Sunrise, Passion Fruit, Pineapple Cooler, Sour Apple Pucker, Strawberry Melons | https://vitalikecr.com/producto/musclesport-creatina-hidratacion-60-servidas/
-- ABE CREATINA | 60 SERVIDAS | ID: 9615 | ₡17,000 | https://vitalikecr.com/producto/abe-creatina-60-servidas/
-- REDCON1 TANGO CREATINA | 30 SERVIDAS | ID: 6459 | ₡24,000 | Opciones: Sabor: Fresa - Kiwi, Uva | https://vitalikecr.com/producto/redcon1-tango-creatina-30-servidas/
-- GHOST SIZE-V3 | 30 SERVIDAS | ID: 4994 | ₡25,500 | Opciones: Sabor: Cherry Lime, Lime, Mango, Natty, Warheads Watermelon | https://vitalikecr.com/producto/ghost-size-v2-30-servidas/
-- REDCON1 CREATINA MONOHIDRATADA | 60 SERVIDAS | ID: 4632 | ₡17,900 | https://vitalikecr.com/producto/redcon1-creatina-monohidratada-60-servidas/
-
 ## SUPLEMENTOS
+- STEEL FIT CREATINA CREAPURE | 30-100 SERVIDAS | ID: 27382 | ₡13,900 - ₡29,900 (varía según Tamaño) | Opciones: Tamaño: 30 Servidas, 100 Servidas | https://vitalikecr.com/producto/steel-fit-creatina-creapure-30-100-servidas/
 - STEEL FIT HYDRA STEEL DIURETICO | 80 CÁPSULAS | ID: 27375 | ₡16,700 | https://vitalikecr.com/producto/steel-fit-hydra-steel-diuretico-80-capsulas/
 - LANDERFIT FIBRA | NARANJA | 30 SERV | ID: 27372 | ₡16,900 | https://vitalikecr.com/producto/landerfit-fibra-naranja-30-serv/
 - LANDERFIT VITAMINA C | 120 CÁPSULAS | ID: 27362 | ₡10,900 | https://vitalikecr.com/producto/landerfit-vitamina-c-120-capsulas/
@@ -151,7 +145,6 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - UNIVERSAL ANIMAL PAK | 44 PACKS | ID: 11597 | ₡34,000 | https://vitalikecr.com/producto/universal-animal-pak-44-packs/
 - DYMATIZE SUPER MASS | 6-12 LBS | ID: 11592 | ₡33,550 - ₡46,750 (varía según Sabor, Tamaño) | Opciones: Sabor: Chocolate, Vainilla | Tamaño: 12 LBS, 6 LBS | https://vitalikecr.com/producto/dymatize-super-mass-6-12-lbs/
 - DYMATIZE ISO 100 | 1.3LBS | ID: 11530 | ₡31,900 | Opciones: Sabor: Birthday Cake, Chocolate, Chocolate Mantequilla De Maní, Cocoa Pebbles, Cookies &amp; Cream, Fresa, Fruity Pebbles, Fudge Brownie, Vainilla | https://vitalikecr.com/producto/dymatize-iso-100-1-3lbs/
-- DYMATIZE ISO 100 | 3LBS | ID: 11526 | ₡47,500 | Opciones: Sabor: Chocolate, Fruity Pebbles, Fudge Brownie | https://vitalikecr.com/producto/dymatize-iso-100-3lbs/
 - DYMATIZE ISO 100 | 5LBS | ID: 11471 | ₡69,900 | Opciones: Sabor: Birthday Cake, Chocolate, Chocolate Mantequilla De Maní, Cocoa Pebbles, Cookies &amp; Cream, Fresa, Fruity Pebbles, Fudge Brownie, Vainilla | https://vitalikecr.com/producto/dymatize-iso-100-5lbs/
 - EVL OMEGA 3 FISH OIL - 120 CÁPSULAS | ID: 10176 | ₡11,900 | https://vitalikecr.com/producto/evl-omega-3-fish-oil-120-capsulas/
 - LANDERFIT PROTEINA ISO DEFINITION | 5 LBS | ID: 9606 | ₡49,500 | Opciones: Sabor: Banana, Birthday cake rainbow, Caramel, Strawberry | https://vitalikecr.com/producto/landerfit-proteina-iso-definition-5-lbs/
@@ -218,6 +211,18 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - USN COLAGENO PEPTIDES | 30 SERVIDAS | ID: 26619 | ₡21,000 | https://vitalikecr.com/producto/usn-colageno-peptides-30-servidas/
 - NUTRABIO MULTI COLAGENO SIN SABOR | 45 SERVIDAS | ID: 21695 | ₡25,500 | https://vitalikecr.com/producto/nutrabio-multi-colageno-sin-sabor-45-servidas/
 
+## CREATINAS
+- PROMO | NUTREX PROTEÍNA ISOFIT 5B + NUTREX CREATINA 200 SERVIDAS | ID: 27209 | ₡70,900 (normal ₡82,400) | https://vitalikecr.com/producto/promo-nutrex-proteina-isofit-5b-nutrex-creatina-200-servidas/
+- PROMO | RAW CBUM ESSENTIAL PRE ENTRENO + RAW CREATINA 250 SERVIDAS | ID: 27210 | ₡41,900 (normal ₡53,800) | https://vitalikecr.com/producto/promo-raw-cbum-essential-pre-entreno-raw-creatina-250-servidas/
+- PROMO | NUTREX PROTEÍNA WHEY 5LB + NUTREX CREATINA 200 SERVIDAS | ID: 27204 | ₡59,000 (normal ₡70,400) | https://vitalikecr.com/producto/promo-nutrex-proteina-whey-5lb-nutrex-creatina-200-servidas/
+- RAW CREATINA CON SABOR | 30 SERVIDAS | ID: 23731 | ₡12,900 | Opciones: Sabor: Blue Raspberry, Cherry Lemonade, Fruit Punch | https://vitalikecr.com/producto/raw-creatina-con-sabor-30-servidas/
+- GHOST BASICS CREATINA | 50 SERVIDAS | ID: 22762 | ₡19,500 | https://vitalikecr.com/producto/ghost-basics-creatina-50-servidas/
+- MUSCLESPORT CREATINA + HIDRATACIÓN | 60 SERVIDAS | ID: 22057 | ₡21,800 | Opciones: Sabor: Lemon IItalian Ice, Melocotón, Miami Sunrise, Passion Fruit, Pineapple Cooler, Sour Apple Pucker, Strawberry Melons | https://vitalikecr.com/producto/musclesport-creatina-hidratacion-60-servidas/
+- ABE CREATINA | 60 SERVIDAS | ID: 9615 | ₡17,000 | https://vitalikecr.com/producto/abe-creatina-60-servidas/
+- REDCON1 TANGO CREATINA | 30 SERVIDAS | ID: 6459 | ₡24,000 | Opciones: Sabor: Fresa - Kiwi, Uva | https://vitalikecr.com/producto/redcon1-tango-creatina-30-servidas/
+- GHOST SIZE-V3 | 30 SERVIDAS | ID: 4994 | ₡25,500 | Opciones: Sabor: Cherry Lime, Lime, Mango, Natty, Warheads Watermelon | https://vitalikecr.com/producto/ghost-size-v2-30-servidas/
+- REDCON1 CREATINA MONOHIDRATADA | 60 SERVIDAS | ID: 4632 | ₡17,900 | https://vitalikecr.com/producto/redcon1-creatina-monohidratada-60-servidas/
+
 ## HOMBRE
 - PROMO | 50% ROPA DEPORTIVA | ID: 27215 | ₡ | https://vitalikecr.com/producto/promo-50-ropa-deportiva/
 - PANTALONETA BE VERDE ESMERALDA | ID: 6363 | ₡16,000 | Opciones: Talla: M, L, XL | https://vitalikecr.com/producto/pantaloneta-be-verde-esmeralda/
@@ -279,19 +284,15 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - REDCON GANADOR DE PESO | 6 LBS | ID: 11403 | ₡29,900 | Opciones: Sabor: Chocolate, Fresa, Galleta, Vainilla | https://vitalikecr.com/producto/redcon-ganador-de-peso-6-lbs/
 - NUTREX GANADOR MASS INFUSION  | 12LB | ID: 6325 | ₡55,500 | Opciones: Sabor: Chocolate, Vainilla | https://vitalikecr.com/producto/nutrex-ganador-mass-infusion-12lb/
 
-## CHIPS
-- QUEST TORTILLA STYLE PROTEIN CHIPS | 1 UNIDAD | ID: 26635 | ₡1,800 | Opciones: Sabor: Hot &amp; Spicy, Ranch | https://vitalikecr.com/producto/quest-tortilla-style-protein-chips-1-unidad/
-
-## BARRITAS
-- PURE PROTEIN BARRA DE PROTEÍNA | ID: 26628 | ₡1,500 | Opciones: Sabor: Birthday Cake, Peanut Butter | https://vitalikecr.com/producto/pure-protein-barra-de-proteina/
-- MRS TASTE TASTY BARRITA DE PROTEÍNA | ID: 26618 | ₡1,500 | https://vitalikecr.com/producto/mrs-taste-tasty-barrita-de-proteina/
-- ALPHA PRIME BROWNIE | ID: 9506 | ₡2,500 | Opciones: Sabor: Birthday Cake, Blueberry Cobbler, Choco Peanutnutter Chips, Chocolate Cookie Monster, Chocolate Donut, Cinnamon Roll, Cookies &amp; Cream | https://vitalikecr.com/producto/alpha-prime-brownie/
-- ZORAW BARRAS DE CHOCOLATE | ID: 9503 | ₡3,375 | https://vitalikecr.com/producto/zoraw-barras-de-chocolate/
-
 ## L- CARNITINAS
 - NUTREX CARNIBURN | 31 SERVIDAS | ID: 26621 | ₡24,600 | Opciones: Sabor: Sour Gummy Worms, Strawberry Watermelon | https://vitalikecr.com/producto/nutrex-carniburn-31-servidas/
 - NUTRABIO L-CARNITINA 3000MG | 31 SERVIDAS | ID: 9224 | ₡18,000 | Opciones: Sabor: Blue Razz, Green Apple, Peach Rings, Sour Candy | https://vitalikecr.com/producto/nutrabio-l-carnitina-3000mg-31-servidas/
 - GHOST BURN | 40 SERVIDAS | ID: 4964 | ₡34,900 | Opciones: Sabor: Guava Berry, Kiwi Strawberry | https://vitalikecr.com/producto/ghost-burn-40-servidas/
+
+## BARRITAS
+- MRS TASTE TASTY BARRITA DE PROTEÍNA | ID: 26618 | ₡1,500 | https://vitalikecr.com/producto/mrs-taste-tasty-barrita-de-proteina/
+- ALPHA PRIME BROWNIE | ID: 9506 | ₡2,500 | Opciones: Sabor: Birthday Cake, Blueberry Cobbler, Choco Peanutnutter Chips, Chocolate Cookie Monster, Chocolate Donut, Cinnamon Roll, Cookies &amp; Cream | https://vitalikecr.com/producto/alpha-prime-brownie/
+- ZORAW BARRAS DE CHOCOLATE | ID: 9503 | ₡3,375 | https://vitalikecr.com/producto/zoraw-barras-de-chocolate/
 
 ## BEBIDAS
 - GHOST BEBIDA HIDRATANTE | 500 ML | ID: 26605 | ₡1,600 | Opciones: Sabor: Strawberry Mango, Welch´s grape | https://vitalikecr.com/producto/ghost-bebida-hidratante-500-ml/
