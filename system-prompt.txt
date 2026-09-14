@@ -113,36 +113,28 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 # PRODUCTOS
 
 ## PROMOCIONES
+- USN PROTEINA PREMUIM WHEY | 5LBS | ID: 27886 | ₡38,900 | https://vitalikecr.com/carrito/?add-to-cart=27886
 - PROMO | GRAB & GO | ID: 27842 | ₡ | https://vitalikecr.com/carrito/?add-to-cart=27842
 - PROMO | PASTILLERIA | ID: 27833 | ₡ | https://vitalikecr.com/carrito/?add-to-cart=27833
 
 ## CREATINAS
 - PROMO | PROTEÍNA 5LB + CREATINA O PRE ENTRENO 20% OFF | ID: 27840 | ₡ | https://vitalikecr.com/carrito/?add-to-cart=27840
-- STEEL FIT CREATINA CREAPURE | 30-100 SERVIDAS | ID: 27382 | ₡13,900 | https://vitalikecr.com/carrito/?add-to-cart=27382
 - RAW CREATINA CON SABOR | 30 SERVIDAS | ID: 23731 | ₡12,900 | https://vitalikecr.com/carrito/?add-to-cart=23731
-- NUTREX CREATINA PARA MUJER | 30 SERVIDAS | ID: 22095 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=22095
-- MUSCLESPORT CREATINA + HIDRATACIÓN | 60 SERVIDAS | ID: 22057 | ₡21,800 | https://vitalikecr.com/carrito/?add-to-cart=22057
 - NUTRABIO CREATINA MONOHIDRATADA | 150 CÁPSULAS | ID: 22029 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=22029
-- NUTREX CREATINA CON SABOR | 60 SERVIDAS | ID: 20784 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=20784
-- NUTREX CREATINA SIN SABOR | 30-60-100-200-400 SERVIDAS | ID: 6315 | ₡10,500 | https://vitalikecr.com/carrito/?add-to-cart=6315
-- ABE CREATINA | 60 SERVIDAS | ID: 9615 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=9615
-- REDCON1 TANGO CREATINA | 30 SERVIDAS | ID: 6459 | ₡24,000 | https://vitalikecr.com/carrito/?add-to-cart=6459
-- NUTRABIO CREATINA SIN SABOR | 30-60-100 SERVIDAS | ID: 6273 | ₡13,500 | https://vitalikecr.com/carrito/?add-to-cart=6273
+- REDCON1 TANGO CREATINA | 30 SERVIDAS | ID: 6459 | ₡15,500 | https://vitalikecr.com/carrito/?add-to-cart=6459
+- NUTRABIO CREATINA SIN SABOR | 30-60-100 SERVIDAS | ID: 6273 | ₡9,900 | https://vitalikecr.com/carrito/?add-to-cart=6273
 - NUTRABIO CREATINA BURST | 60 SERVIDAS | ID: 6269 | ₡17,800 | https://vitalikecr.com/carrito/?add-to-cart=6269
-- NUTRABIO CGT MAX  | 40 SERVIDAS | ID: 6266 | ₡26,900 | https://vitalikecr.com/carrito/?add-to-cart=6266
-- GHOST SIZE-V3 | 30 SERVIDAS | ID: 4994 | ₡25,500 | https://vitalikecr.com/carrito/?add-to-cart=4994
-- REDCON1 CREATINA MONOHIDRATADA | 60 SERVIDAS | ID: 4632 | ₡17,900 | https://vitalikecr.com/carrito/?add-to-cart=4632
-- RAW CREATINA | 50-100-250 SERVIDAS | ID: 4628 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=4628
-- MUSCLETECH CREATINA 100% PLATINUM | 80-90 SERVIDAS | ID: 4199 | ₡23,000 | https://vitalikecr.com/carrito/?add-to-cart=4199
+- NUTRABIO CGT MAX  | 40 SERVIDAS | ID: 6266 | ₡15,500 | https://vitalikecr.com/carrito/?add-to-cart=6266
+- MUSCLETECH CELL-TECH CREACTOR | 120 SERVIDAS | ID: 5065 | ₡26,900 | https://vitalikecr.com/carrito/?add-to-cart=5065
+- GHOST SIZE-V3 | 30 SERVIDAS | ID: 4994 | ₡18,500 | https://vitalikecr.com/carrito/?add-to-cart=4994
 
 ## AMINOÁCIDOS
 - PROMO | PROTEÍNA 5LB + AMINOÁCIDOS 25% OFF | ID: 27814 | ₡ | https://vitalikecr.com/carrito/?add-to-cart=27814
 - PROSUPPS HYDRO BCAA + EAA | 30 SERVIDAS | ID: 27795 | ₡15,000 | https://vitalikecr.com/carrito/?add-to-cart=27795
-- REDCON CANTEEN | 30 SERVIDAS | ID: 26671 | ₡19,000 | https://vitalikecr.com/carrito/?add-to-cart=26671
-- REDCON BCAA BREACH ENERGY | 30 SERVIDAS | ID: 26661 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=26661
+- REDCON CANTEEN | 30 SERVIDAS | ID: 26671 | ₡12,000 (normal ₡19,000) | https://vitalikecr.com/carrito/?add-to-cart=26671
+- REDCON BCAA BREACH ENERGY | 30 SERVIDAS | ID: 26661 | ₡12,500 (normal ₡19,500) | https://vitalikecr.com/carrito/?add-to-cart=26661
 - PROSUPPS HYDROBCAA PLUS ESSENTIALS | 90 SERVIDAS | ID: 22237 | ₡32,000 | https://vitalikecr.com/carrito/?add-to-cart=22237
 - NUTRABIO SUPER CARB | 30 SERVIDAS | ID: 21712 | ₡28,500 | https://vitalikecr.com/carrito/?add-to-cart=21712
-- USN BCAA + AMINO | 30 SERVIDAS | ID: 20926 | ₡19,900 | https://vitalikecr.com/carrito/?add-to-cart=20926
 - NUTRAKEY BCAA OPTIMA UVA | 30 SERVIDAS | ID: 11902 | ₡17,000 (normal ₡23,900) | https://vitalikecr.com/carrito/?add-to-cart=11902
 - NUTREX EAA + HIDRATACION | 30 SERVIDAS | ID: 6318 | ₡18,500 | https://vitalikecr.com/carrito/?add-to-cart=6318
 - NUTRABIO INTRABLAST AMINO + EAA + BCAA | 30 SERVIDAS | ID: 6277 | ₡29,900 | https://vitalikecr.com/carrito/?add-to-cart=6277
@@ -152,7 +144,7 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - NUTRABIO LEUCINA EN POLVO | 500 G | ID: 4584 | ₡26,000 | https://vitalikecr.com/carrito/?add-to-cart=4584
 - NUTRABIO CARBOHIDRATOS EN POLVO CARBO MAX SIN SABOR | 75 SERVIDAS | ID: 4568 | ₡29,900 | https://vitalikecr.com/carrito/?add-to-cart=4568
 - NUTRABIO BETA-ALANINE EN POLVO | 180 SERVIDAS | ID: 4563 | ₡27,300 | https://vitalikecr.com/carrito/?add-to-cart=4563
-- EVOGEN CELL KEM PURE COVER | 30 SERVIDAS | ID: 4118 | ₡24,000 (normal ₡36,000) | https://vitalikecr.com/carrito/?add-to-cart=4118
+- EVOGEN CELL KEM PURE COVER | 30 SERVIDAS | ID: 4118 | ₡22,900 (normal ₡36,000) | https://vitalikecr.com/carrito/?add-to-cart=4118
 
 ## CHIPS
 - OMAHA POPCORN PROTEIN | ID: 27443 | ₡4,000 | https://vitalikecr.com/carrito/?add-to-cart=27443
@@ -160,9 +152,7 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 
 ## BARRITAS
 - MY COOKIE DEALER GALLETA DE PROTEÍNA | 2OZ | ID: 27430 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=27430
-- PURE PROTEIN BARRA DE PROTEÍNA | ID: 26628 | ₡1,500 | https://vitalikecr.com/carrito/?add-to-cart=26628
 - MRS TASTE TASTY BARRITA DE PROTEÍNA | ID: 26618 | ₡1,500 | https://vitalikecr.com/carrito/?add-to-cart=26618
-- MRS TASTE ALFAJOR GALLETA | ID: 26611 | ₡1,500 | https://vitalikecr.com/carrito/?add-to-cart=26611
 - ALPHA PRIME BROWNIE | ID: 9506 | ₡2,500 | https://vitalikecr.com/carrito/?add-to-cart=9506
 - ZORAW BARRAS DE CHOCOLATE | ID: 9503 | ₡3,375 | https://vitalikecr.com/carrito/?add-to-cart=9503
 
@@ -180,7 +170,6 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - PROSUPPS PRENTRENO HYDENIGHTMARE | 30 SERVIDAS | ID: 22246 | ₡18,000 | https://vitalikecr.com/carrito/?add-to-cart=22246
 - NUTREX OUTRAGE PRE ENTRENO | 30 SERVIDAS | ID: 22186 | ₡14,900 | https://vitalikecr.com/carrito/?add-to-cart=22186
 - MUSCLESPORT FRUITS & GREENS | 30 SERVIDAS | ID: 22083 | ₡23,900 | https://vitalikecr.com/carrito/?add-to-cart=22083
-- VENUM GUANTES DE BOXEO CHALLENGER 4.0 | 12-14-16 OZ | ID: 21595 | ₡39,900 | https://vitalikecr.com/carrito/?add-to-cart=21595
 - VENUM GUANTES DE BOXEO CONTENDER 1.5 | 12-14-16 OZ | ID: 21528 | ₡27,900 | https://vitalikecr.com/carrito/?add-to-cart=21528
 - VENUM GUANTES MMA IMPACT EVO | ID: 21485 | ₡36,900 | https://vitalikecr.com/carrito/?add-to-cart=21485
 - VENUM RODILLERAS KONTACT | ID: 21412 | ₡24,900 | https://vitalikecr.com/carrito/?add-to-cart=21412
@@ -189,24 +178,48 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - CELLUCOR PRE-ENTRENO C4 | 30-50 SERVIDAS | ID: 20221 | ₡19,500 | https://vitalikecr.com/carrito/?add-to-cart=20221
 
 ## SUPLEMENTOS
+- STEEL FIT CREATINA CREAPURE | 30-100 SERVIDAS | ID: 27382 | ₡13,900 | https://vitalikecr.com/carrito/?add-to-cart=27382
 - STEEL FIT HYDRA STEEL DIURETICO | 80 CÁPSULAS | ID: 27375 | ₡16,700 | https://vitalikecr.com/carrito/?add-to-cart=27375
 - LANDERFIT FIBRA | NARANJA | 30 SERV | ID: 27372 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=27372
+- BLOOM SPARKLING ENERGY DRINK | ID: 23627 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=23627
+- NUTREX GLUTAMINA DRIVE | 60-200 SERVIDAS | ID: 22177 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=22177
+- NUTREX CREATINA PARA MUJER | 30 SERVIDAS | ID: 22095 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=22095
+- TOTAL WAR SHOT | 1 UNIDAD | ID: 22088 | ₡1,900 | https://vitalikecr.com/carrito/?add-to-cart=22088
+- MUSCLESPORT CREATINA + HIDRATACIÓN | 60 SERVIDAS | ID: 22057 | ₡13,500 | https://vitalikecr.com/carrito/?add-to-cart=22057
 - USN MULTIVITAMINICO | 60 SERVIDAS | ID: 20907 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=20907
+- NUTREX CREATINA CON SABOR | 60 SERVIDAS | ID: 20784 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=20784
 - UNIVERSAL ANIMAL STAK | 21 PACKS | ID: 11598 | ₡36,900 | https://vitalikecr.com/carrito/?add-to-cart=11598
+- UNIVERSAL ANIMAL PAK | 44 PACKS | ID: 11597 | ₡34,000 | https://vitalikecr.com/carrito/?add-to-cart=11597
+- DYMATIZE ISO 100 | 1.3LBS | ID: 11530 | ₡31,900 | https://vitalikecr.com/carrito/?add-to-cart=11530
+- DYMATIZE ISO 100 | 5LBS | ID: 11471 | ₡67,900 | https://vitalikecr.com/carrito/?add-to-cart=11471
 - EVL OMEGA 3 FISH OIL - 120 CÁPSULAS | ID: 10176 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=10176
+- EVL ENGN SHRED PRE- ENTRENO | 30 SERVIDAS | ID: 10166 | ₡12,900 | https://vitalikecr.com/carrito/?add-to-cart=10166
+- NUTREX CREATINA SIN SABOR | 30-60-100-200-400 SERVIDAS | ID: 6315 | ₡10,500 | https://vitalikecr.com/carrito/?add-to-cart=6315
+- NUTRABIO PROTEÍNA CLASSIC WHEY | 67 SERVIDAS | ID: 6287 | ₡49,900 | https://vitalikecr.com/carrito/?add-to-cart=6287
+- NUTRABIO CAFEINA | ID: 9685 | ₡14,900 | https://vitalikecr.com/carrito/?add-to-cart=9685
+- ABE CREATINA | 60 SERVIDAS | ID: 9615 | ₡12,500 (normal ₡17,000) | https://vitalikecr.com/carrito/?add-to-cart=9615
 - NUTREX MULTIVITAMINICO VITADAPT | 90 CÁPSULAS | ID: 9604 | ₡17,500 | https://vitalikecr.com/carrito/?add-to-cart=9604
+- REDCON1 TOTAL WAR PRE-ENTRENO | 30 SERVIDAS | ID: 6466 | ₡25,400 | https://vitalikecr.com/carrito/?add-to-cart=6466
+- NUTREX PROTEÍNA ISOLADA ISOFIT | 30-70 SERVIDAS | ID: 6352 | ₡33,900 | https://vitalikecr.com/carrito/?add-to-cart=6352
+- NUTREX PROTEINA 100% WHEY | 2LBS-5LBS-10LBS | ID: 6345 | ₡25,000 | https://vitalikecr.com/carrito/?add-to-cart=6345
+- NUTRABIO OMEGA 3 FISH OIL | 150-400-500 CÁPSULAS | ID: 6284 | ₡13,000 | https://vitalikecr.com/carrito/?add-to-cart=6284
+- LANDERFIT PROTEÍNA WHEY | 26 SERVIDAS Y 64 SERVIDAS | ID: 5014 | ₡23,900 | https://vitalikecr.com/carrito/?add-to-cart=5014
+- REDCON1 CREATINA MONOHIDRATADA | 60 SERVIDAS | ID: 4632 | ₡12,500 (normal ₡17,900) | https://vitalikecr.com/carrito/?add-to-cart=4632
+- RAW CREATINA | 50-100-250 SERVIDAS | ID: 4628 | ₡17,000 | https://vitalikecr.com/carrito/?add-to-cart=4628
 - NUTREX NIOX EXTREM PUMP OXIDO NITRICO | 90 CAPSULAS | ID: 4627 | ₡21,900 | https://vitalikecr.com/carrito/?add-to-cart=4627
+- NUTREX CAFEINA 200 | 60 CAPSULAS | ID: 4616 | ₡9,200 | https://vitalikecr.com/carrito/?add-to-cart=4616
 - NUTRABIO ZMA | 180 CAPSULAS | ID: 4596 | ₡27,900 | https://vitalikecr.com/carrito/?add-to-cart=4596
 - NUTRABIO ZINC CHELATO | 120 CAPSULAS | ID: 4595 | ₡10,000 | https://vitalikecr.com/carrito/?add-to-cart=4595
 - NUTRABIO MULTISPORT PARA HOMBRE | 120 CÁPSULAS | ID: 4588 | ₡23,500 | https://vitalikecr.com/carrito/?add-to-cart=4588
 - NUTRABIO MULTISPORT MUJER | 120 CAPSULAS | ID: 4587 | ₡23,500 | https://vitalikecr.com/carrito/?add-to-cart=4587
-- NUTRABIO GLUCOSAMINA CONDROINTIN & MSM | 90 CÁPSULAS | ID: 4577 | ₡17,300 | https://vitalikecr.com/carrito/?add-to-cart=4577
 - NUTRABIO EXTREME JOINT CARE | 120 CÁPSULAS | ID: 4575 | ₡26,500 | https://vitalikecr.com/carrito/?add-to-cart=4575
 - NUTRABIO COQ10 | 60 CAPSULAS | ID: 4574 | ₡21,900 | https://vitalikecr.com/carrito/?add-to-cart=4574
 - NUTRABIO COMPLEJO DE POTASIO | 120 CAPSULAS | ID: 4573 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4573
+- NUTRABIO CLA 800 MG | 90 CÁPSULAS | ID: 4570 | ₡15,800 | https://vitalikecr.com/carrito/?add-to-cart=4570
 - NUTRABIO BIOTINA | 90 CAPSULAS | ID: 4564 | ₡12,900 | https://vitalikecr.com/carrito/?add-to-cart=4564
 - NUTRABIO ASHWAGANDHA | 90 CAPSULAS | ID: 4560 | ₡26,900 | https://vitalikecr.com/carrito/?add-to-cart=4560
 - NUTRABIO ACIDO ALPHA LIPOICO | 90 CAPSULAS | ID: 4558 | ₡18,900 | https://vitalikecr.com/carrito/?add-to-cart=4558
+- MUSCLETECH CREATINA 100% PLATINUM | 80-90 SERVIDAS | ID: 4199 | ₡23,000 | https://vitalikecr.com/carrito/?add-to-cart=4199
 - LANDERFIT OMEGA 3 1000 MG | 100 SERVIDAS | ID: 4131 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4131
 - LANDERFIT MULTIVITAMÍNICO MULTIPHASE | 30 SERVIDAS | ID: 4130 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=4130
 - EVL PROBIOTICO | 30 SERVIDAS | ID: 4117 | ₡19,000 | https://vitalikecr.com/carrito/?add-to-cart=4117
@@ -215,9 +228,14 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 ## COLAGENOS
 - LANDERFIT COLÁGENO UC II | 30 CÁPSULAS | ID: 27357 | ₡14,900 | https://vitalikecr.com/carrito/?add-to-cart=27357
 - LANDERFIT COLÁGENO HIDROLIZADO | 30 SERVIDAS | ID: 27351 | ₡18,900 | https://vitalikecr.com/carrito/?add-to-cart=27351
-- USN COLAGENO PEPTIDES | 30 SERVIDAS | ID: 26619 | ₡21,000 | https://vitalikecr.com/carrito/?add-to-cart=26619
+- USN COLAGENO PEPTIDES | 30 SERVIDAS | ID: 26619 | ₡14,900 (normal ₡21,000) | https://vitalikecr.com/carrito/?add-to-cart=26619
 - NUTRABIO MULTI COLAGENO SIN SABOR | 45 SERVIDAS | ID: 21695 | ₡25,500 | https://vitalikecr.com/carrito/?add-to-cart=21695
 - LANDERFIT COLÁGENO HIDROLIZADO EN CÁPSULAS | 45 SERVIDAS | ID: 4123 | ₡14,000 | https://vitalikecr.com/carrito/?add-to-cart=4123
+
+## PROTEÍNA VEGANA
+- RAW PROTEINA VEGANA | 25 SERVIDAS | ID: 26689 | ₡31,000 | https://vitalikecr.com/carrito/?add-to-cart=26689
+- LANDERFIT PROTEÍNA VEGANA | 28 SERVIDAS | ID: 5011 | ₡28,900 | https://vitalikecr.com/carrito/?add-to-cart=5011
+- GHOST PROTEINA VEGANA | 28 SERVIDAS | ID: 4977 | ₡30,500 | https://vitalikecr.com/carrito/?add-to-cart=4977
 
 ## ACCESORIOS
 - REDCON SHAKER | ID: 26682 | ₡7,200 | https://vitalikecr.com/carrito/?add-to-cart=26682
@@ -225,9 +243,9 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - MUSCLETECH SHAKER | ID: 26678 | ₡7,200 | https://vitalikecr.com/carrito/?add-to-cart=26678
 - DURA BODY CINTURON CUERO | ID: 4792 | ₡25,900 | https://vitalikecr.com/carrito/?add-to-cart=4792
 - NORULES CINTURÓN CUERO SINTÉTICO | ID: 5413 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=5413
-- DURA BODY CODERAS | ID: 10308 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=10308
+- DURA BODY CODERAS | ID: 10308 | ₡8,900 | https://vitalikecr.com/carrito/?add-to-cart=10308
 - DURA BODY ANCLAJE DE POLEA | ID: 10247 | ₡14,900 | https://vitalikecr.com/carrito/?add-to-cart=10247
-- DURA BODY GRIPS CROSSFIT | ID: 10237 | ₡13,900 | https://vitalikecr.com/carrito/?add-to-cart=10237
+- DURA BODY GRIPS CROSSFIT | ID: 10237 | ₡8,900 | https://vitalikecr.com/carrito/?add-to-cart=10237
 - DURA BODY BOLSO DE ESPALDA GYM | ID: 10122 | ₡29,000 (normal ₡59,000) | https://vitalikecr.com/carrito/?add-to-cart=10122
 - NR CALLERA MUÑEQUERA SENCILLA | ID: 9998 | ₡15,000 | https://vitalikecr.com/carrito/?add-to-cart=9998
 - NUTREX SHAKER | ID: 9398 | ₡7,200 | https://vitalikecr.com/carrito/?add-to-cart=9398
@@ -246,41 +264,32 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 
 ## GANADORES DE PESO
 - REDCON MRE PROTEINA DE BASE ANIMAL |  7 LBS | ID: 26672 | ₡51,900 | https://vitalikecr.com/carrito/?add-to-cart=26672
-- DYMATIZE SUPER MASS | 6-12 LBS | ID: 11592 | ₡33,550 | https://vitalikecr.com/carrito/?add-to-cart=11592
+- REDCON GANADOR DE PESO | 6 LBS | ID: 11403 | ₡29,900 | https://vitalikecr.com/carrito/?add-to-cart=11403
 - NUTREX GANADOR MASS INFUSION  | 12LB | ID: 6325 | ₡55,500 | https://vitalikecr.com/carrito/?add-to-cart=6325
 
 ## BEBIDAS
 - RAW BUM ENERGY | 12 OZ | ID: 26643 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=26643
 - GHOST BEBIDA HIDRATANTE | 500 ML | ID: 26605 | ₡1,600 | https://vitalikecr.com/carrito/?add-to-cart=26605
-- PURE PROTEIN PROTEINA RTD | 1 UNIDAD | ID: 22214 | ₡2,000 | https://vitalikecr.com/carrito/?add-to-cart=22214
-- TOTAL WAR SHOT | 1 UNIDAD | ID: 22088 | ₡1,900 | https://vitalikecr.com/carrito/?add-to-cart=22088
 
 ## L- CARNITINAS
 - NUTREX CARNIBURN | 31 SERVIDAS | ID: 26621 | ₡24,600 | https://vitalikecr.com/carrito/?add-to-cart=26621
 - NUTRABIO L-CARNITINA 3000MG | 31 SERVIDAS | ID: 9224 | ₡18,000 | https://vitalikecr.com/carrito/?add-to-cart=9224
 - NUTREX L-CARNITINA 3000 | 31 SERVIDAS | ID: 6328 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=6328
-- GHOST BURN | 40 SERVIDAS | ID: 4964 | ₡34,900 | https://vitalikecr.com/carrito/?add-to-cart=4964
-
-## BEBIDAS ENERGÉTICAS
-- BLOOM SPARKLING ENERGY DRINK | ID: 23627 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=23627
-- USN BEBIDA ENERGÉTICA QHUSH | 500 ML | ID: 6654 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=6654
-- RYSE FULL ENERGY BEBIDA ENERGÉTICA | ID: 6490 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=6490
-- GHOST ENERGY RTD | ID: 4967 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=4967
 
 ## PROTEÍNA WHEY
 - MUSCLESPORT PROTEINA LEAN WHEY | 1LBS-2LBS | ID: 23620 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=23620
 - EVL PROTEÍNA 100% WHEY | 1 LB | ID: 10210 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=10210
-- NUTRABIO PROTEÍNA CLASSIC WHEY | 67 SERVIDAS | ID: 6287 | ₡49,900 | https://vitalikecr.com/carrito/?add-to-cart=6287
-- LANDERFIT PROTEINA WOMENS | 2 LBS | ID: 9611 | ₡31,900 | https://vitalikecr.com/carrito/?add-to-cart=9611
-- TERROR LABZ PROTEÍNA WHEY | 64 SERVIDAS | ID: 6627 | ₡45,900 | https://vitalikecr.com/carrito/?add-to-cart=6627
-- NUTREX PROTEINA 100% WHEY | 2LBS-5LBS-10LBS | ID: 6345 | ₡25,000 | https://vitalikecr.com/carrito/?add-to-cart=6345
+- LANDERFIT PROTEINA WOMENS | 2 LBS | ID: 9611 | ₡22,500 | https://vitalikecr.com/carrito/?add-to-cart=9611
 - MUSCLETECH NITRO TECH 100% WHEY GOLD / 2LBS-5LBS | ID: 5075 | ₡28,500 | https://vitalikecr.com/carrito/?add-to-cart=5075
 - MUSCLETECH NITRO TECH / 2 LBS -4 LBS | ID: 5071 | ₡29,500 | https://vitalikecr.com/carrito/?add-to-cart=5071
-- LANDERFIT PROTEÍNA WHEY | 26 SERVIDAS Y 64 SERVIDAS | ID: 5014 | ₡23,900 | https://vitalikecr.com/carrito/?add-to-cart=5014
 - GHOST PROTEINA WHEY | 26 SERVIDAS | ID: 4983 | ₡33,500 | https://vitalikecr.com/carrito/?add-to-cart=4983
 
 ## PROTEÍNAS
 - NUTRABIO CASEINA | 2 LBS | ID: 23614 | ₡33,900 | https://vitalikecr.com/carrito/?add-to-cart=23614
+
+## SNACKS SALUDABLES
+- PURE PROTEIN PROTEINA RTD | 1 UNIDAD | ID: 22214 | ₡2,000 | https://vitalikecr.com/carrito/?add-to-cart=22214
+- RAZE CAKES | ID: 6392 | ₡7,000 | https://vitalikecr.com/carrito/?add-to-cart=6392
 
 ## GOMITAS
 - THE GUMMIES SHILAJIT CON VITAMINA C | 60 GOMITAS | ID: 22200 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=22200
@@ -292,10 +301,8 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - THE GUMMIES CURCUMA Y JENGIBRE | 60 GOMITAS | ID: 4668 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4668
 - THE GUMMIES BIOTINA | 60 GOMITAS | ID: 4666 | ₡11,900 | https://vitalikecr.com/carrito/?add-to-cart=4666
 
-## GLUTAMINAS
-- NUTREX GLUTAMINA DRIVE | 60-200 SERVIDAS | ID: 22177 | ₡15,900 | https://vitalikecr.com/carrito/?add-to-cart=22177
-- NUTRABIO GLUTAMINA SIN SABOR | 100 SERVIDAS | ID: 4578 | ₡22,900 | https://vitalikecr.com/carrito/?add-to-cart=4578
-- LANDERFIT GLUTAMINA SIN SABOR | 60 SERVIDAS | ID: 4125 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=4125
+## VENUM
+- VENUM GUANTES DE BOXEO CHALLENGER 4.0 | 12-14-16 OZ | ID: 21595 | ₡39,900 | https://vitalikecr.com/carrito/?add-to-cart=21595
 
 ## IMPLEMENTOS DE ENTRENAMIENTO
 - NORULES CHALECO DE PESO | SENCILLO | ID: 20610 | ₡20,000 | https://vitalikecr.com/carrito/?add-to-cart=20610
@@ -318,26 +325,25 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - NORULES PANTALONETA AJUSTADA GRIS CLARO | ID: 10898 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=10898
 - NORULES VISERA | ID: 10834 | ₡9,000 | https://vitalikecr.com/carrito/?add-to-cart=10834
 
-## PROTEÍNA HIDROLIZADA | ISOLADA
-- DYMATIZE ISO 100 | 1.3LBS | ID: 11530 | ₡31,900 | https://vitalikecr.com/carrito/?add-to-cart=11530
-- DYMATIZE ISO 100 | 5LBS | ID: 11471 | ₡67,900 | https://vitalikecr.com/carrito/?add-to-cart=11471
-- EVL PROTEÍNA 100% ISOLADA | 1 LB | ID: 10211 | ₡17,900 | https://vitalikecr.com/carrito/?add-to-cart=10211
-- RAW CBUM PROTEINA ITHOLATE | 2 LBS - 5 LBS | ID: 6370 | ₡35,900 | https://vitalikecr.com/carrito/?add-to-cart=6370
-- NUTREX PROTEÍNA ISOLADA ISOFIT | 30-70 SERVIDAS | ID: 6352 | ₡33,900 | https://vitalikecr.com/carrito/?add-to-cart=6352
-- NUTRABIO PROTEÍNA ISOLADA ISO CLEAR | 20 SERVIDAS | ID: 6300 | ₡31,500 | https://vitalikecr.com/carrito/?add-to-cart=6300
-- CBUM PROTEINA ISO | 25 SERVIDAS | ID: 4705 | ₡35,900 | https://vitalikecr.com/carrito/?add-to-cart=4705
-
 ## PROPULSORES DE TESTOSTERONA
 - NUTRABIO TRIBULUS TERRESTRIS | 90 CÁPSULAS | ID: 10647 | ₡15,100 | https://vitalikecr.com/carrito/?add-to-cart=10647
 - LANDERFIT PROPULSOR DE TESTOSTERONA | 30 SERVIDAS | ID: 4132 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=4132
 
+## PROTEÍNA HIDROLIZADA | ISOLADA
+- EVL PROTEÍNA 100% ISOLADA | 1 LB | ID: 10211 | ₡17,900 | https://vitalikecr.com/carrito/?add-to-cart=10211
+- RAW CBUM PROTEINA ITHOLATE | 2 LBS - 5 LBS | ID: 6370 | ₡35,900 | https://vitalikecr.com/carrito/?add-to-cart=6370
+- NUTRABIO PROTEÍNA ISOLADA ISO CLEAR | 20 SERVIDAS | ID: 6300 | ₡31,500 | https://vitalikecr.com/carrito/?add-to-cart=6300
+
 ## PRE - ENTRENOS
-- EVL ENGN SHRED PRE- ENTRENO | 30 SERVIDAS | ID: 10166 | ₡19,900 | https://vitalikecr.com/carrito/?add-to-cart=10166
 - LANDERFIT PRE-ENTRENO MUSCLE PUMP |  30 SERVIDAS | ID: 5002 | ₡25,400 | https://vitalikecr.com/carrito/?add-to-cart=5002
-- REDCON1 TOTAL WAR PRE-ENTRENO | 30 SERVIDAS | ID: 6466 | ₡25,400 | https://vitalikecr.com/carrito/?add-to-cart=6466
 - REPP RAZE PRE-ENTRENO | 30 SERVIDAS | ID: 6483 | ₡23,000 | https://vitalikecr.com/carrito/?add-to-cart=6483
 - RAW CBUM THAVAGE EN POLVO | 40/20 SERVIDAS | ID: 6373 | ₡30,900 | https://vitalikecr.com/carrito/?add-to-cart=6373
 - GHOST PRE ENTRENO LEGEND | 30 SERVIDAS | ID: 4973 | ₡26,100 | https://vitalikecr.com/carrito/?add-to-cart=4973
+
+## BEBIDAS ENERGÉTICAS
+- USN BEBIDA ENERGÉTICA QHUSH | 500 ML | ID: 6654 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=6654
+- RYSE FULL ENERGY BEBIDA ENERGÉTICA | ID: 6490 | ₡1,500 | https://vitalikecr.com/carrito/?add-to-cart=6490
+- GHOST ENERGY RTD | ID: 4967 | ₡1,800 | https://vitalikecr.com/carrito/?add-to-cart=4967
 
 ## MUJER
 - TOP CRUZADO RIB AZUL | ID: 6634 | ₡16,400 | https://vitalikecr.com/carrito/?add-to-cart=6634
@@ -375,8 +381,10 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 ## PROTEÍNA DE CARNE
 - REDCON1 PROTEÍNA DE BASE ANIMAL MRE LITE | 30 SERVIDAS | ID: 6443 | ₡33,500 | https://vitalikecr.com/carrito/?add-to-cart=6443
 
-## SNACKS SALUDABLES
-- RAZE CAKES | ID: 6392 | ₡7,000 | https://vitalikecr.com/carrito/?add-to-cart=6392
+## ESTÉTICA
+- PRO TAN | KIT DE TINTE PARA COMPETICIÓN | ID: 6367 | ₡22,000 | https://vitalikecr.com/carrito/?add-to-cart=6367
+- STEEL FIT | FAJA TÉRMICA PARA PIERNAS | ID: 4651 | ₡20,900 | https://vitalikecr.com/carrito/?add-to-cart=4651
+- MUSCLE UP HAIR AWAY | ID: 4198 | ₡12,600 | https://vitalikecr.com/carrito/?add-to-cart=4198
 
 ## HOMBRE
 - PANTALONETA BE VERDE ESMERALDA | ID: 6363 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=6363
@@ -398,10 +406,8 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - NUTREX LIPO6 BLACK ULTRA CONCENTRADO MUJER | 60 CÁPSULAS | ID: 4621 | ₡23,500 | https://vitalikecr.com/carrito/?add-to-cart=4621
 - NUTREX LIPO6 BLACK ULTRA CONCENTRADO | 60 CÁPSULAS | ID: 4619 | ₡23,500 | https://vitalikecr.com/carrito/?add-to-cart=4619
 - NUTREX LIPO6 BLACK INTENSE ULTRA CONCENTRADO | 60 CÁPSULAS | ID: 4618 | ₡27,500 | https://vitalikecr.com/carrito/?add-to-cart=4618
-- NUTRABIO CLA 800 MG | 90 CÁPSULAS | ID: 4570 | ₡15,800 | https://vitalikecr.com/carrito/?add-to-cart=4570
 - NUTRABIO CAFFPLUS CAFEINA+ TEANINA | 60 CAPS | ID: 4566 | ₡16,000 | https://vitalikecr.com/carrito/?add-to-cart=4566
 - MUSCLETECH HYDROXYCUT HARDCORE ELITE | 100 CAPS | ID: 4200 | ₡19,900 | https://vitalikecr.com/carrito/?add-to-cart=4200
-- LANDERFIT CLA 2000 MG | 60 SERVIDAS | ID: 4122 | ₡12,000 | https://vitalikecr.com/carrito/?add-to-cart=4122
 
 ## NO RULES
 - NORULES SOMBRERO BUCKET | ID: 6108 | ₡10,500 | https://vitalikecr.com/carrito/?add-to-cart=6108
@@ -442,19 +448,15 @@ Usá estos links cuando el cliente quiera ver TODAS las opciones de un tipo de p
 - NORULES CAMISETA ALGODON | DOPAMINE | ID: 5141 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=5141
 - CAMISETA ALGODÓN NEGRA THIS IS A CHEAT | ID: 4700 | ₡19,700 | https://vitalikecr.com/carrito/?add-to-cart=4700
 
-## PROTEÍNA VEGANA
-- LANDERFIT PROTEÍNA VEGANA | 28 SERVIDAS | ID: 5011 | ₡28,900 | https://vitalikecr.com/carrito/?add-to-cart=5011
-- GHOST PROTEINA VEGANA | 28 SERVIDAS | ID: 4977 | ₡30,500 | https://vitalikecr.com/carrito/?add-to-cart=4977
-
-## ESTÉTICA
-- STEEL FIT | FAJA TÉRMICA PARA PIERNAS | ID: 4651 | ₡20,900 | https://vitalikecr.com/carrito/?add-to-cart=4651
-- MUSCLE UP HAIR AWAY | ID: 4198 | ₡12,600 | https://vitalikecr.com/carrito/?add-to-cart=4198
-
 ## VITAMINAS
 - NUTRABIO VITAMINA D3 K2 | ID: 4594 | ₡21,900 | https://vitalikecr.com/carrito/?add-to-cart=4594
 
 ## PROMOTORES DEL SUEÑO
 - NUTRABIO MELATONINA 3MG | 120 CAPSULAS | ID: 4586 | ₡8,500 | https://vitalikecr.com/carrito/?add-to-cart=4586
+
+## GLUTAMINAS
+- NUTRABIO GLUTAMINA SIN SABOR | 100 SERVIDAS | ID: 4578 | ₡22,900 | https://vitalikecr.com/carrito/?add-to-cart=4578
+- LANDERFIT GLUTAMINA SIN SABOR | 60 SERVIDAS | ID: 4125 | ₡16,900 | https://vitalikecr.com/carrito/?add-to-cart=4125
 # INFORMACION OPERATIVA
 Envíos gratis en pedidos mayores a ₡30,000. Entrega el mismo día si pedís antes de las 2pm en el área metropolitana. Fuera del área metro: 1-2 días hábiles. Tenemos 20 sucursales en San José, Alajuela, Heredia, Cartago y más zonas. WhatsApp de soporte: 8399-1555. Sitio web: vitalikecr.com
 
